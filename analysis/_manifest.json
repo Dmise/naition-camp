@@ -1,0 +1,5254 @@
+{
+  "counter_id": "111696929",
+  "period": "week",
+  "scraped_at": "2026-08-19T20:44:52.996Z",
+  "concurrency": 3,
+  "output_root": "D:\\Yandex.Disk\\Education\\AI Naition\\src\\naition-low-conversion-landing\\analysis",
+  "total_visits": 308,
+  "visits": [
+    {
+      "visit_id": "4795971671794647088",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795971671794647088.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 185,
+        "clicks": 4,
+        "scrolls": 57,
+        "mousemoves": 87,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 61820,
+        "duration_sec": 62
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795972309683273762",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795972309683273762.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 169,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 74,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 55200,
+        "duration_sec": 55
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795972433397940456",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795972433397940456.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 198,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 100,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 60545,
+        "duration_sec": 61
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795970156773507224",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795970156773507224.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 162,
+        "clicks": 4,
+        "scrolls": 55,
+        "mousemoves": 68,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 51457,
+        "duration_sec": 51
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795966191612723460",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795966191612723460.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 167,
+        "clicks": 4,
+        "scrolls": 55,
+        "mousemoves": 71,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 47664,
+        "duration_sec": 48
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795965628111650879",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795965628111650879.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 118,
+        "clicks": 3,
+        "scrolls": 26,
+        "mousemoves": 60,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 41822,
+        "duration_sec": 42
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795962538950394024",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795962538950394024.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 157,
+        "clicks": 4,
+        "scrolls": 51,
+        "mousemoves": 67,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 50946,
+        "duration_sec": 51
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795963591586218329",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795963591586218329.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 160,
+        "clicks": 4,
+        "scrolls": 58,
+        "mousemoves": 64,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 47988,
+        "duration_sec": 48
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795962229707767879",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795962229707767879.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 94,
+        "clicks": 1,
+        "scrolls": 27,
+        "mousemoves": 44,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 35580,
+        "duration_sec": 36
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795962393435832455",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795962393435832455.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 170,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 74,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 49074,
+        "duration_sec": 49
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795960179022888976",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795960179022888976.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 155,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 62,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 53759,
+        "duration_sec": 54
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795959603342606663",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795959603342606663.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 110,
+        "clicks": 1,
+        "scrolls": 25,
+        "mousemoves": 59,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 48555,
+        "duration_sec": 49
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795958392405360856",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795958392405360856.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 174,
+        "clicks": 4,
+        "scrolls": 51,
+        "mousemoves": 80,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 52691,
+        "duration_sec": 53
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795956309565374568",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795956309565374568.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 176,
+        "clicks": 4,
+        "scrolls": 58,
+        "mousemoves": 78,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 52315,
+        "duration_sec": 52
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795952976723181786",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795952976723181786.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 92,
+        "clicks": 2,
+        "scrolls": 25,
+        "mousemoves": 41,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 40066,
+        "duration_sec": 40
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795952629342535856",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795952629342535856.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 169,
+        "clicks": 4,
+        "scrolls": 58,
+        "mousemoves": 70,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 49185,
+        "duration_sec": 49
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795951179902746895",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795951179902746895.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 174,
+        "clicks": 4,
+        "scrolls": 60,
+        "mousemoves": 73,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 56707,
+        "duration_sec": 57
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795950073214140653",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795950073214140653.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 162,
+        "clicks": 4,
+        "scrolls": 57,
+        "mousemoves": 67,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 47019,
+        "duration_sec": 47
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795949074667012452",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795949074667012452.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 152,
+        "clicks": 4,
+        "scrolls": 52,
+        "mousemoves": 61,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 50322,
+        "duration_sec": 50
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795946404791189660",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795946404791189660.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 138,
+        "clicks": 4,
+        "scrolls": 57,
+        "mousemoves": 42,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 49933,
+        "duration_sec": 50
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795946091104960720",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795946091104960720.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 166,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 69,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 53337,
+        "duration_sec": 53
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795946163798278476",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795946163798278476.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 183,
+        "clicks": 4,
+        "scrolls": 55,
+        "mousemoves": 87,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 60876,
+        "duration_sec": 61
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795944782154432773",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795944782154432773.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 162,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 66,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 51392,
+        "duration_sec": 51
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795941606997360981",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795941606997360981.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 161,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 65,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 55593,
+        "duration_sec": 56
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795938790667976901",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795938790667976901.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 154,
+        "clicks": 4,
+        "scrolls": 49,
+        "mousemoves": 65,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 52342,
+        "duration_sec": 52
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795938223269347396",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795938223269347396.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 174,
+        "clicks": 4,
+        "scrolls": 59,
+        "mousemoves": 73,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 55890,
+        "duration_sec": 56
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795937112596152652",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795937112596152652.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 175,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 80,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 53203,
+        "duration_sec": 53
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795936013525450821",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795936013525450821.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 153,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 57,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 49438,
+        "duration_sec": 49
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795935425897431112",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795935425897431112.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 175,
+        "clicks": 4,
+        "scrolls": 58,
+        "mousemoves": 77,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 55438,
+        "duration_sec": 55
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795932531798311080",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795932531798311080.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 139,
+        "clicks": 1,
+        "scrolls": 30,
+        "mousemoves": 80,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 46254,
+        "duration_sec": 46
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795933313736638560",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795933313736638560.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 166,
+        "clicks": 4,
+        "scrolls": 58,
+        "mousemoves": 67,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 49490,
+        "duration_sec": 49
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795932587707072829",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795932587707072829.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 168,
+        "clicks": 4,
+        "scrolls": 57,
+        "mousemoves": 71,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 50983,
+        "duration_sec": 51
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795931123319570683",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795931123319570683.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 180,
+        "clicks": 4,
+        "scrolls": 60,
+        "mousemoves": 79,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 56835,
+        "duration_sec": 57
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795929902376550701",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795929902376550701.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 150,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 54,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 44180,
+        "duration_sec": 44
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795926206254415962",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795926206254415962.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 163,
+        "clicks": 4,
+        "scrolls": 52,
+        "mousemoves": 71,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 45411,
+        "duration_sec": 45
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795925502552440910",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795925502552440910.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 152,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 57,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 50289,
+        "duration_sec": 50
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795924180001882272",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795924180001882272.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 143,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 49,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 44680,
+        "duration_sec": 45
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795922468897292408",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795922468897292408.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 204,
+        "clicks": 4,
+        "scrolls": 53,
+        "mousemoves": 107,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 55424,
+        "duration_sec": 55
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795920885274116209",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795920885274116209.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 163,
+        "clicks": 4,
+        "scrolls": 58,
+        "mousemoves": 65,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 47037,
+        "duration_sec": 47
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795919405317882151",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795919405317882151.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 186,
+        "clicks": 4,
+        "scrolls": 61,
+        "mousemoves": 84,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 60651,
+        "duration_sec": 61
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795918410020028534",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795918410020028534.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 150,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 55,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 53346,
+        "duration_sec": 53
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795918001510809613",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795918001510809613.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 171,
+        "clicks": 4,
+        "scrolls": 53,
+        "mousemoves": 77,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 55135,
+        "duration_sec": 55
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795917269792457015",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795917269792457015.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 136,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 43,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 47774,
+        "duration_sec": 48
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795915447445225554",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795915447445225554.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 189,
+        "clicks": 4,
+        "scrolls": 59,
+        "mousemoves": 88,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 59367,
+        "duration_sec": 59
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795911313928225026",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795911313928225026.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 139,
+        "clicks": 4,
+        "scrolls": 59,
+        "mousemoves": 43,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 48639,
+        "duration_sec": 49
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795910658555904102",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795910658555904102.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 201,
+        "clicks": 4,
+        "scrolls": 55,
+        "mousemoves": 102,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 56162,
+        "duration_sec": 56
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795910820972462165",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795910820972462165.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 178,
+        "clicks": 4,
+        "scrolls": 55,
+        "mousemoves": 81,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 58313,
+        "duration_sec": 58
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795910080278823191",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795910080278823191.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 93,
+        "clicks": 0,
+        "scrolls": 26,
+        "mousemoves": 52,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 21912,
+        "duration_sec": 22
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795905750005186650",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795905750005186650.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 192,
+        "clicks": 4,
+        "scrolls": 57,
+        "mousemoves": 91,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 57207,
+        "duration_sec": 57
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795904276362690580",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795904276362690580.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 162,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 65,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 53440,
+        "duration_sec": 53
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795903792176431124",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795903792176431124.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 156,
+        "clicks": 4,
+        "scrolls": 57,
+        "mousemoves": 60,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 53804,
+        "duration_sec": 54
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795903118821032046",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795903118821032046.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 213,
+        "clicks": 4,
+        "scrolls": 60,
+        "mousemoves": 108,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 61660,
+        "duration_sec": 62
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795901914746716385",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795901914746716385.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 181,
+        "clicks": 4,
+        "scrolls": 61,
+        "mousemoves": 79,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 58113,
+        "duration_sec": 58
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795899637547663551",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795899637547663551.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 179,
+        "clicks": 4,
+        "scrolls": 63,
+        "mousemoves": 75,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 59823,
+        "duration_sec": 60
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795897666281930797",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795897666281930797.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 177,
+        "clicks": 4,
+        "scrolls": 57,
+        "mousemoves": 78,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 49773,
+        "duration_sec": 50
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795898017490403635",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795898017490403635.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 179,
+        "clicks": 4,
+        "scrolls": 53,
+        "mousemoves": 83,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 50322,
+        "duration_sec": 50
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795895872173113593",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795895872173113593.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 198,
+        "clicks": 4,
+        "scrolls": 61,
+        "mousemoves": 93,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 55998,
+        "duration_sec": 56
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795892625014522164",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795892625014522164.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 419,
+        "clicks": 8,
+        "scrolls": 59,
+        "mousemoves": 102,
+        "inputs": 173,
+        "keydowns": 0,
+        "duration_ms": 66172,
+        "duration_sec": 66
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795892377423446132",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795892377423446132.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 113,
+        "clicks": 1,
+        "scrolls": 24,
+        "mousemoves": 65,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 44952,
+        "duration_sec": 45
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795891667444170939",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795891667444170939.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 180,
+        "clicks": 4,
+        "scrolls": 55,
+        "mousemoves": 83,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 53281,
+        "duration_sec": 53
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795890257045487959",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795890257045487959.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 171,
+        "clicks": 4,
+        "scrolls": 52,
+        "mousemoves": 78,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 51174,
+        "duration_sec": 51
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795889933621657697",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795889933621657697.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 156,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 61,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 49798,
+        "duration_sec": 50
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795888715562483757",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795888715562483757.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 177,
+        "clicks": 4,
+        "scrolls": 55,
+        "mousemoves": 81,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 49901,
+        "duration_sec": 50
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795884337317019703",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795884337317019703.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 195,
+        "clicks": 4,
+        "scrolls": 59,
+        "mousemoves": 93,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 57920,
+        "duration_sec": 58
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795883165749346489",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795883165749346489.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 137,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 44,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 48043,
+        "duration_sec": 48
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795882170835271731",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795882170835271731.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 164,
+        "clicks": 4,
+        "scrolls": 58,
+        "mousemoves": 66,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 58672,
+        "duration_sec": 59
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795881176127766710",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795881176127766710.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 201,
+        "clicks": 4,
+        "scrolls": 53,
+        "mousemoves": 104,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 63770,
+        "duration_sec": 64
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795878351934062768",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795878351934062768.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 158,
+        "clicks": 4,
+        "scrolls": 55,
+        "mousemoves": 63,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 53106,
+        "duration_sec": 53
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795877942669082792",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795877942669082792.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 164,
+        "clicks": 4,
+        "scrolls": 55,
+        "mousemoves": 68,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 51983,
+        "duration_sec": 52
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795877248727777329",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795877248727777329.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 190,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 93,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 58250,
+        "duration_sec": 58
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795875169827291147",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795875169827291147.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 172,
+        "clicks": 4,
+        "scrolls": 59,
+        "mousemoves": 72,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 55892,
+        "duration_sec": 56
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795873207667654990",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795873207667654990.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 186,
+        "clicks": 4,
+        "scrolls": 59,
+        "mousemoves": 86,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 64609,
+        "duration_sec": 65
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795872243509100701",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795872243509100701.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 192,
+        "clicks": 4,
+        "scrolls": 58,
+        "mousemoves": 91,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 62370,
+        "duration_sec": 62
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795870836820017312",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795870836820017312.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 126,
+        "clicks": 3,
+        "scrolls": 26,
+        "mousemoves": 67,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 46634,
+        "duration_sec": 47
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795869256191574367",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795869256191574367.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 176,
+        "clicks": 4,
+        "scrolls": 55,
+        "mousemoves": 79,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 48843,
+        "duration_sec": 49
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795869028436148262",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795869028436148262.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 172,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 78,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 57957,
+        "duration_sec": 58
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795865667750330490",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795865667750330490.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 176,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 80,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 58745,
+        "duration_sec": 59
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795865133537820895",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795865133537820895.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 159,
+        "clicks": 4,
+        "scrolls": 57,
+        "mousemoves": 62,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 45818,
+        "duration_sec": 46
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795864966766002211",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795864966766002211.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 175,
+        "clicks": 4,
+        "scrolls": 58,
+        "mousemoves": 76,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 50643,
+        "duration_sec": 51
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795862754109161741",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795862754109161741.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 168,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 74,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 57526,
+        "duration_sec": 58
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795861656041423051",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795861656041423051.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 147,
+        "clicks": 4,
+        "scrolls": 51,
+        "mousemoves": 58,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 43624,
+        "duration_sec": 44
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795862033589076186",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795862033589076186.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 139,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 46,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 49708,
+        "duration_sec": 50
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795858540276220042",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795858540276220042.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 182,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 83,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 51817,
+        "duration_sec": 52
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795856108537512121",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795856108537512121.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 155,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 59,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 55760,
+        "duration_sec": 56
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795855202388017392",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795855202388017392.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 160,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 67,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 52277,
+        "duration_sec": 52
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795851730504384669",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795851730504384669.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 173,
+        "clicks": 4,
+        "scrolls": 57,
+        "mousemoves": 74,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 50710,
+        "duration_sec": 51
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795853949742350366",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795853949742350366.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 166,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 74,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 57977,
+        "duration_sec": 58
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795851003522187463",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795851003522187463.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 172,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 77,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 55570,
+        "duration_sec": 56
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795849964066701399",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795849964066701399.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 116,
+        "clicks": 2,
+        "scrolls": 28,
+        "mousemoves": 58,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 45618,
+        "duration_sec": 46
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795848618137878718",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795848618137878718.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 188,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 90,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 53513,
+        "duration_sec": 54
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795848375772381485",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795848375772381485.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 179,
+        "clicks": 4,
+        "scrolls": 53,
+        "mousemoves": 84,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 62850,
+        "duration_sec": 63
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795847330521153774",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795847330521153774.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 148,
+        "clicks": 4,
+        "scrolls": 57,
+        "mousemoves": 52,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 54251,
+        "duration_sec": 54
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795845120754712769",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795845120754712769.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 333,
+        "clicks": 9,
+        "scrolls": 53,
+        "mousemoves": 61,
+        "inputs": 134,
+        "keydowns": 0,
+        "duration_ms": 50794,
+        "duration_sec": 51
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795843649306624324",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795843649306624324.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 141,
+        "clicks": 4,
+        "scrolls": 52,
+        "mousemoves": 51,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 47149,
+        "duration_sec": 47
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795843099169652794",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795843099169652794.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 76,
+        "clicks": 2,
+        "scrolls": 25,
+        "mousemoves": 27,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 29761,
+        "duration_sec": 30
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795841870871396587",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795841870871396587.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 162,
+        "clicks": 4,
+        "scrolls": 52,
+        "mousemoves": 72,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 50364,
+        "duration_sec": 50
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795838672663740690",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795838672663740690.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 167,
+        "clicks": 4,
+        "scrolls": 55,
+        "mousemoves": 73,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 57825,
+        "duration_sec": 58
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795835901575692560",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795835901575692560.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 135,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 42,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 47185,
+        "duration_sec": 47
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795836556172591268",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795836556172591268.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 132,
+        "clicks": 1,
+        "scrolls": 27,
+        "mousemoves": 78,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 50711,
+        "duration_sec": 51
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795836021815640274",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795836021815640274.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 182,
+        "clicks": 4,
+        "scrolls": 58,
+        "mousemoves": 82,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 59409,
+        "duration_sec": 59
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795834505023193343",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795834505023193343.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 161,
+        "clicks": 4,
+        "scrolls": 53,
+        "mousemoves": 70,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 53380,
+        "duration_sec": 53
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795832272562946119",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795832272562946119.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 172,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 78,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 57043,
+        "duration_sec": 57
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795830140712255500",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795830140712255500.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 160,
+        "clicks": 4,
+        "scrolls": 51,
+        "mousemoves": 70,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 51121,
+        "duration_sec": 51
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795829093139742766",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795829093139742766.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 166,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 68,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 60680,
+        "duration_sec": 61
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795828905340567805",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795828905340567805.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 100,
+        "clicks": 3,
+        "scrolls": 28,
+        "mousemoves": 40,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 36819,
+        "duration_sec": 37
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795829198830436479",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795829198830436479.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 57,
+        "clicks": 0,
+        "scrolls": 4,
+        "mousemoves": 36,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 25163,
+        "duration_sec": 25
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795828214471065611",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795828214471065611.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 155,
+        "clicks": 4,
+        "scrolls": 51,
+        "mousemoves": 64,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 51658,
+        "duration_sec": 52
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795827934614257688",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795827934614257688.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 195,
+        "clicks": 4,
+        "scrolls": 60,
+        "mousemoves": 91,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 57441,
+        "duration_sec": 57
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795824078054490428",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795824078054490428.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 173,
+        "clicks": 4,
+        "scrolls": 55,
+        "mousemoves": 78,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 47164,
+        "duration_sec": 47
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795823253928018151",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795823253928018151.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 44,
+        "clicks": 0,
+        "scrolls": 3,
+        "mousemoves": 26,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 21094,
+        "duration_sec": 21
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795820821276524576",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795820821276524576.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 183,
+        "clicks": 4,
+        "scrolls": 58,
+        "mousemoves": 84,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 57472,
+        "duration_sec": 57
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795819768431509602",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795819768431509602.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 169,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 75,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 55763,
+        "duration_sec": 56
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795818998204989547",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795818998204989547.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 143,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 48,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 50256,
+        "duration_sec": 50
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795817105009934349",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795817105009934349.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 151,
+        "clicks": 4,
+        "scrolls": 57,
+        "mousemoves": 55,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 45353,
+        "duration_sec": 45
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795814761444147268",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795814761444147268.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 170,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 77,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 58212,
+        "duration_sec": 58
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795814238503567548",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795814238503567548.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 208,
+        "clicks": 4,
+        "scrolls": 61,
+        "mousemoves": 104,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 52858,
+        "duration_sec": 53
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795813960491204898",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795813960491204898.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 160,
+        "clicks": 4,
+        "scrolls": 53,
+        "mousemoves": 67,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 52862,
+        "duration_sec": 53
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795813701456756737",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795813701456756737.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 189,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 91,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 58680,
+        "duration_sec": 59
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795809325062553636",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795809325062553636.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 168,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 71,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 55847,
+        "duration_sec": 56
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795808860281503921",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795808860281503921.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 198,
+        "clicks": 4,
+        "scrolls": 60,
+        "mousemoves": 95,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 54363,
+        "duration_sec": 54
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795807333213536368",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795807333213536368.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 149,
+        "clicks": 4,
+        "scrolls": 53,
+        "mousemoves": 57,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 50963,
+        "duration_sec": 51
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795804980555022536",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795804980555022536.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 157,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 64,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 45827,
+        "duration_sec": 46
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795807521491386578",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795807521491386578.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 98,
+        "clicks": 2,
+        "scrolls": 30,
+        "mousemoves": 41,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 46102,
+        "duration_sec": 46
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795804386773696702",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795804386773696702.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 183,
+        "clicks": 4,
+        "scrolls": 60,
+        "mousemoves": 81,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 55334,
+        "duration_sec": 55
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795801278861279566",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795801278861279566.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 146,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 54,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 46900,
+        "duration_sec": 47
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795800452684578933",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795800452684578933.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 157,
+        "clicks": 4,
+        "scrolls": 57,
+        "mousemoves": 60,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 52140,
+        "duration_sec": 52
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795799618465824855",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795799618465824855.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 109,
+        "clicks": 0,
+        "scrolls": 29,
+        "mousemoves": 62,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 38023,
+        "duration_sec": 38
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795798490465173600",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795798490465173600.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 178,
+        "clicks": 4,
+        "scrolls": 52,
+        "mousemoves": 86,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 61604,
+        "duration_sec": 62
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795795042767208508",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795795042767208508.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 160,
+        "clicks": 4,
+        "scrolls": 55,
+        "mousemoves": 64,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 47196,
+        "duration_sec": 47
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795794654439670040",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795794654439670040.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 175,
+        "clicks": 4,
+        "scrolls": 58,
+        "mousemoves": 74,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 53698,
+        "duration_sec": 54
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795794423180165150",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795794423180165150.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 171,
+        "clicks": 4,
+        "scrolls": 59,
+        "mousemoves": 71,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 56445,
+        "duration_sec": 56
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795794097400447078",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795794097400447078.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 161,
+        "clicks": 4,
+        "scrolls": 58,
+        "mousemoves": 64,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 50081,
+        "duration_sec": 50
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795791413734014992",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795791413734014992.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 164,
+        "clicks": 4,
+        "scrolls": 53,
+        "mousemoves": 72,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 51283,
+        "duration_sec": 51
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795788995736371335",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795788995736371335.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 166,
+        "clicks": 4,
+        "scrolls": 58,
+        "mousemoves": 68,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 58232,
+        "duration_sec": 58
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795788791837360190",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795788791837360190.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 49,
+        "clicks": 0,
+        "scrolls": 5,
+        "mousemoves": 29,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 23357,
+        "duration_sec": 23
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795787730519851312",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795787730519851312.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 165,
+        "clicks": 4,
+        "scrolls": 51,
+        "mousemoves": 74,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 48082,
+        "duration_sec": 48
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795785095402487898",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795785095402487898.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 178,
+        "clicks": 4,
+        "scrolls": 57,
+        "mousemoves": 79,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 60628,
+        "duration_sec": 61
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795785239202627622",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795785239202627622.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 147,
+        "clicks": 4,
+        "scrolls": 58,
+        "mousemoves": 51,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 50061,
+        "duration_sec": 50
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795784793877119037",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795784793877119037.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 166,
+        "clicks": 4,
+        "scrolls": 57,
+        "mousemoves": 69,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 56096,
+        "duration_sec": 56
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795779355146977563",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795779355146977563.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 178,
+        "clicks": 4,
+        "scrolls": 51,
+        "mousemoves": 87,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 57052,
+        "duration_sec": 57
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795782257716494578",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795782257716494578.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 170,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 73,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 46742,
+        "duration_sec": 47
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795778857765175596",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795778857765175596.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 175,
+        "clicks": 4,
+        "scrolls": 55,
+        "mousemoves": 79,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 57673,
+        "duration_sec": 58
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795778518150021446",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795778518150021446.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 172,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 76,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 48731,
+        "duration_sec": 49
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795777862122602692",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795777862122602692.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 137,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 46,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 41292,
+        "duration_sec": 41
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795775649286455549",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795775649286455549.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 167,
+        "clicks": 4,
+        "scrolls": 57,
+        "mousemoves": 70,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 50462,
+        "duration_sec": 50
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795772876763693111",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795772876763693111.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 166,
+        "clicks": 4,
+        "scrolls": 55,
+        "mousemoves": 71,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 56225,
+        "duration_sec": 56
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795772956917629112",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795772956917629112.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 139,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 46,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 44688,
+        "duration_sec": 45
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795769727222808692",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795769727222808692.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 184,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 86,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 58221,
+        "duration_sec": 58
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795769278675550571",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795769278675550571.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 177,
+        "clicks": 4,
+        "scrolls": 53,
+        "mousemoves": 82,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 60432,
+        "duration_sec": 60
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795769167293710403",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795769167293710403.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 164,
+        "clicks": 4,
+        "scrolls": 60,
+        "mousemoves": 65,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 49451,
+        "duration_sec": 49
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795764531488358679",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795764531488358679.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 180,
+        "clicks": 4,
+        "scrolls": 57,
+        "mousemoves": 82,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 54192,
+        "duration_sec": 54
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795764542898176078",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795764542898176078.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 161,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 65,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 52891,
+        "duration_sec": 53
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795764134204932312",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795764134204932312.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 179,
+        "clicks": 4,
+        "scrolls": 50,
+        "mousemoves": 87,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 57689,
+        "duration_sec": 58
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795763977355788436",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795763977355788436.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 154,
+        "clicks": 4,
+        "scrolls": 55,
+        "mousemoves": 59,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 52500,
+        "duration_sec": 53
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795760669175316523",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795760669175316523.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 124,
+        "clicks": 3,
+        "scrolls": 29,
+        "mousemoves": 62,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 46025,
+        "duration_sec": 46
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795762298383761431",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795762298383761431.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 144,
+        "clicks": 4,
+        "scrolls": 55,
+        "mousemoves": 50,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 50509,
+        "duration_sec": 51
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795759616287047959",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795759616287047959.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 131,
+        "clicks": 4,
+        "scrolls": 53,
+        "mousemoves": 41,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 50429,
+        "duration_sec": 50
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795757033569911017",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795757033569911017.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 156,
+        "clicks": 4,
+        "scrolls": 57,
+        "mousemoves": 61,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 46314,
+        "duration_sec": 46
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795756735535775986",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795756735535775986.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 156,
+        "clicks": 4,
+        "scrolls": 57,
+        "mousemoves": 61,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 46987,
+        "duration_sec": 47
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795756006353403906",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795756006353403906.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 171,
+        "clicks": 4,
+        "scrolls": 58,
+        "mousemoves": 72,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 51873,
+        "duration_sec": 52
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795751845781045508",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795751845781045508.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 170,
+        "clicks": 4,
+        "scrolls": 51,
+        "mousemoves": 80,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 46409,
+        "duration_sec": 46
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795750949702336580",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795750949702336580.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 157,
+        "clicks": 4,
+        "scrolls": 53,
+        "mousemoves": 65,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 51243,
+        "duration_sec": 51
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795750572463489035",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795750572463489035.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 157,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 62,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 50656,
+        "duration_sec": 51
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795750176133480673",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795750176133480673.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 151,
+        "clicks": 4,
+        "scrolls": 52,
+        "mousemoves": 60,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 54232,
+        "duration_sec": 54
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795747844825809197",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795747844825809197.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 71,
+        "clicks": 1,
+        "scrolls": 30,
+        "mousemoves": 20,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 34315,
+        "duration_sec": 34
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795747453471555600",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795747453471555600.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 189,
+        "clicks": 4,
+        "scrolls": 59,
+        "mousemoves": 88,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 56090,
+        "duration_sec": 56
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795745176881725640",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795745176881725640.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 173,
+        "clicks": 4,
+        "scrolls": 55,
+        "mousemoves": 76,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 54652,
+        "duration_sec": 55
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795746422227206214",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795746422227206214.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 200,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 100,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 53818,
+        "duration_sec": 54
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795741849667240264",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795741849667240264.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 179,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 81,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 56258,
+        "duration_sec": 56
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795739670191800671",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795739670191800671.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 105,
+        "clicks": 2,
+        "scrolls": 29,
+        "mousemoves": 50,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 40949,
+        "duration_sec": 41
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795741671632404775",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795741671632404775.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 171,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 75,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 54211,
+        "duration_sec": 54
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795737822134534310",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795737822134534310.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 166,
+        "clicks": 4,
+        "scrolls": 59,
+        "mousemoves": 67,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 46691,
+        "duration_sec": 47
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795738918324797502",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795738918324797502.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 141,
+        "clicks": 4,
+        "scrolls": 57,
+        "mousemoves": 47,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 45427,
+        "duration_sec": 45
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795737408718242147",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795737408718242147.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 150,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 58,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 54542,
+        "duration_sec": 55
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795734139466416369",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795734139466416369.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 174,
+        "clicks": 4,
+        "scrolls": 62,
+        "mousemoves": 74,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 51801,
+        "duration_sec": 52
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795733230451949789",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795733230451949789.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 153,
+        "clicks": 4,
+        "scrolls": 55,
+        "mousemoves": 59,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 53829,
+        "duration_sec": 54
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795731852686786695",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795731852686786695.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 187,
+        "clicks": 4,
+        "scrolls": 53,
+        "mousemoves": 94,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 55086,
+        "duration_sec": 55
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795730010981794075",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795730010981794075.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 169,
+        "clicks": 4,
+        "scrolls": 53,
+        "mousemoves": 75,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 57327,
+        "duration_sec": 57
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795726081232994483",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795726081232994483.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 195,
+        "clicks": 4,
+        "scrolls": 58,
+        "mousemoves": 93,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 59628,
+        "duration_sec": 60
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795727451106312528",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795727451106312528.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 205,
+        "clicks": 4,
+        "scrolls": 59,
+        "mousemoves": 100,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 53487,
+        "duration_sec": 53
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795726186309484668",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795726186309484668.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 174,
+        "clicks": 4,
+        "scrolls": 62,
+        "mousemoves": 70,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 51025,
+        "duration_sec": 51
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795725141890826405",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795725141890826405.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 165,
+        "clicks": 4,
+        "scrolls": 55,
+        "mousemoves": 69,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 52068,
+        "duration_sec": 52
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795725866019586302",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795725866019586302.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 156,
+        "clicks": 4,
+        "scrolls": 52,
+        "mousemoves": 66,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 45130,
+        "duration_sec": 45
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795721554207965210",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795721554207965210.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 184,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 90,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 60001,
+        "duration_sec": 60
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795719946209853479",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795719946209853479.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 149,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 57,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 53640,
+        "duration_sec": 54
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795719970244526226",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795719970244526226.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 109,
+        "clicks": 2,
+        "scrolls": 27,
+        "mousemoves": 52,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 44823,
+        "duration_sec": 45
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795719696810508451",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795719696810508451.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 151,
+        "clicks": 4,
+        "scrolls": 55,
+        "mousemoves": 58,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 51072,
+        "duration_sec": 51
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795715585968177284",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795715585968177284.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 163,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 67,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 54596,
+        "duration_sec": 55
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795714681284853925",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795714681284853925.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 168,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 72,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 42223,
+        "duration_sec": 42
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795714164396392746",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795714164396392746.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 155,
+        "clicks": 4,
+        "scrolls": 53,
+        "mousemoves": 63,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 44930,
+        "duration_sec": 45
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795713332947189776",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795713332947189776.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 161,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 68,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 48547,
+        "duration_sec": 49
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795712279683268805",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795712279683268805.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 178,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 79,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 57436,
+        "duration_sec": 57
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795712369946001457",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795712369946001457.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 134,
+        "clicks": 4,
+        "scrolls": 57,
+        "mousemoves": 41,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 48298,
+        "duration_sec": 48
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795709241463668927",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795709241463668927.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 173,
+        "clicks": 4,
+        "scrolls": 55,
+        "mousemoves": 78,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 46559,
+        "duration_sec": 47
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795706204145582122",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795706204145582122.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 161,
+        "clicks": 4,
+        "scrolls": 48,
+        "mousemoves": 74,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 51045,
+        "duration_sec": 51
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795704917179498530",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795704917179498530.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 164,
+        "clicks": 4,
+        "scrolls": 55,
+        "mousemoves": 68,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 56874,
+        "duration_sec": 57
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795704266371629196",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795704266371629196.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 175,
+        "clicks": 4,
+        "scrolls": 61,
+        "mousemoves": 73,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 59092,
+        "duration_sec": 59
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795702335724060731",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795702335724060731.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 173,
+        "clicks": 4,
+        "scrolls": 55,
+        "mousemoves": 79,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 50185,
+        "duration_sec": 50
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795700465568579631",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795700465568579631.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 155,
+        "clicks": 4,
+        "scrolls": 55,
+        "mousemoves": 61,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 53794,
+        "duration_sec": 54
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795701969090773337",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795701969090773337.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 165,
+        "clicks": 4,
+        "scrolls": 58,
+        "mousemoves": 68,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 46029,
+        "duration_sec": 46
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795699576229068990",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795699576229068990.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 176,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 80,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 52103,
+        "duration_sec": 52
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795697922633367753",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795697922633367753.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 167,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 73,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 54303,
+        "duration_sec": 54
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795697084833726715",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795697084833726715.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 179,
+        "clicks": 4,
+        "scrolls": 52,
+        "mousemoves": 85,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 57818,
+        "duration_sec": 58
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795696445486530773",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795696445486530773.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 89,
+        "clicks": 2,
+        "scrolls": 26,
+        "mousemoves": 37,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 29378,
+        "duration_sec": 29
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795694301606838550",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795694301606838550.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 178,
+        "clicks": 4,
+        "scrolls": 59,
+        "mousemoves": 80,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 56527,
+        "duration_sec": 57
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795692918051176595",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795692918051176595.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 162,
+        "clicks": 4,
+        "scrolls": 57,
+        "mousemoves": 66,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 50224,
+        "duration_sec": 50
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795692121956810859",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795692121956810859.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 148,
+        "clicks": 4,
+        "scrolls": 59,
+        "mousemoves": 51,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 48369,
+        "duration_sec": 48
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795688343726981199",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795688343726981199.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 177,
+        "clicks": 4,
+        "scrolls": 49,
+        "mousemoves": 88,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 52991,
+        "duration_sec": 53
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795687680523108367",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795687680523108367.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 142,
+        "clicks": 4,
+        "scrolls": 53,
+        "mousemoves": 52,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 44979,
+        "duration_sec": 45
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795685484206751761",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795685484206751761.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 166,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 69,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 56588,
+        "duration_sec": 57
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795686523083686122",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795686523083686122.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 167,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 73,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 58530,
+        "duration_sec": 59
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795683081843114236",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795683081843114236.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 179,
+        "clicks": 4,
+        "scrolls": 53,
+        "mousemoves": 85,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 52891,
+        "duration_sec": 53
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795682966041001995",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795682966041001995.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 375,
+        "clicks": 9,
+        "scrolls": 53,
+        "mousemoves": 81,
+        "inputs": 152,
+        "keydowns": 0,
+        "duration_ms": 56597,
+        "duration_sec": 57
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795681932614041798",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795681932614041798.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 153,
+        "clicks": 4,
+        "scrolls": 52,
+        "mousemoves": 63,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 46685,
+        "duration_sec": 47
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795680940133449858",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795680940133449858.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 185,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 89,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 58704,
+        "duration_sec": 59
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795678983967211683",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795678983967211683.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 9,
+        "clicks": 0,
+        "scrolls": 1,
+        "mousemoves": 0,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 2900,
+        "duration_sec": 3
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795678343477329958",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795678343477329958.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 189,
+        "clicks": 4,
+        "scrolls": 59,
+        "mousemoves": 86,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 55205,
+        "duration_sec": 55
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795677658627178527",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795677658627178527.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 106,
+        "clicks": 1,
+        "scrolls": 29,
+        "mousemoves": 51,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 40309,
+        "duration_sec": 40
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795674926040219651",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795674926040219651.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 198,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 99,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 65083,
+        "duration_sec": 65
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795674958682128414",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795674958682128414.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 117,
+        "clicks": 3,
+        "scrolls": 27,
+        "mousemoves": 59,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 43573,
+        "duration_sec": 44
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795673663398215825",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795673663398215825.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 149,
+        "clicks": 4,
+        "scrolls": 55,
+        "mousemoves": 56,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 44678,
+        "duration_sec": 45
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795673542928629803",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795673542928629803.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 163,
+        "clicks": 4,
+        "scrolls": 55,
+        "mousemoves": 68,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 53530,
+        "duration_sec": 54
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795668614293487898",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795668614293487898.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 174,
+        "clicks": 4,
+        "scrolls": 57,
+        "mousemoves": 76,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 54726,
+        "duration_sec": 55
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795670339510337844",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795670339510337844.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 168,
+        "clicks": 4,
+        "scrolls": 58,
+        "mousemoves": 70,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 47723,
+        "duration_sec": 48
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795666027787583692",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795666027787583692.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 182,
+        "clicks": 4,
+        "scrolls": 57,
+        "mousemoves": 84,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 56460,
+        "duration_sec": 56
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795668226156003376",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795668226156003376.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 135,
+        "clicks": 4,
+        "scrolls": 51,
+        "mousemoves": 47,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 51887,
+        "duration_sec": 52
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795663274953670724",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795663274953670724.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 180,
+        "clicks": 4,
+        "scrolls": 52,
+        "mousemoves": 84,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 56995,
+        "duration_sec": 57
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795663049826762754",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795663049826762754.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 156,
+        "clicks": 4,
+        "scrolls": 58,
+        "mousemoves": 57,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 55350,
+        "duration_sec": 55
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795661293701300458",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795661293701300458.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 165,
+        "clicks": 4,
+        "scrolls": 53,
+        "mousemoves": 71,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 51468,
+        "duration_sec": 51
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795661199738929288",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795661199738929288.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 39,
+        "clicks": 0,
+        "scrolls": 6,
+        "mousemoves": 18,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 17967,
+        "duration_sec": 18
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795660530901057827",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795660530901057827.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 152,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 60,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 54317,
+        "duration_sec": 54
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795660631404970334",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795660631404970334.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 157,
+        "clicks": 4,
+        "scrolls": 53,
+        "mousemoves": 65,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 49265,
+        "duration_sec": 49
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795660361375678704",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795660361375678704.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 160,
+        "clicks": 4,
+        "scrolls": 59,
+        "mousemoves": 61,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 49825,
+        "duration_sec": 50
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795656068433182877",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795656068433182877.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 75,
+        "clicks": 0,
+        "scrolls": 1,
+        "mousemoves": 34,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 1008978,
+        "duration_sec": 1009
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795656139188732171",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795656139188732171.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 166,
+        "clicks": 4,
+        "scrolls": 59,
+        "mousemoves": 65,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 45620,
+        "duration_sec": 46
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795653378504130637",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795653378504130637.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 409,
+        "clicks": 9,
+        "scrolls": 57,
+        "mousemoves": 98,
+        "inputs": 160,
+        "keydowns": 0,
+        "duration_ms": 64280,
+        "duration_sec": 64
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795653388376473810",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795653388376473810.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 155,
+        "clicks": 4,
+        "scrolls": 55,
+        "mousemoves": 60,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 57549,
+        "duration_sec": 58
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795650862923645009",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795650862923645009.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 145,
+        "clicks": 4,
+        "scrolls": 50,
+        "mousemoves": 57,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 46016,
+        "duration_sec": 46
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795650314453385569",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795650314453385569.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 140,
+        "clicks": 1,
+        "scrolls": 29,
+        "mousemoves": 83,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 41477,
+        "duration_sec": 41
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795649469366403145",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795649469366403145.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 63,
+        "clicks": 0,
+        "scrolls": 3,
+        "mousemoves": 44,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 25017,
+        "duration_sec": 25
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795647884097224921",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795647884097224921.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 176,
+        "clicks": 4,
+        "scrolls": 59,
+        "mousemoves": 79,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 47639,
+        "duration_sec": 48
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795649705157853452",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795649705157853452.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 183,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 87,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 51288,
+        "duration_sec": 51
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795647489936195781",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795647489936195781.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 154,
+        "clicks": 4,
+        "scrolls": 53,
+        "mousemoves": 61,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 48632,
+        "duration_sec": 49
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795646739802227022",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795646739802227022.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 183,
+        "clicks": 4,
+        "scrolls": 53,
+        "mousemoves": 88,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 54724,
+        "duration_sec": 55
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795645951666290789",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795645951666290789.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 149,
+        "clicks": 4,
+        "scrolls": 58,
+        "mousemoves": 54,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 55344,
+        "duration_sec": 55
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795642591162925387",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795642591162925387.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 63,
+        "clicks": 0,
+        "scrolls": 5,
+        "mousemoves": 40,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 26664,
+        "duration_sec": 27
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795640844085100712",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795640844085100712.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 177,
+        "clicks": 4,
+        "scrolls": 55,
+        "mousemoves": 81,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 47247,
+        "duration_sec": 47
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795638704733159780",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795638704733159780.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 178,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 81,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 55490,
+        "duration_sec": 55
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795637497106792682",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795637497106792682.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 141,
+        "clicks": 4,
+        "scrolls": 53,
+        "mousemoves": 51,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 48487,
+        "duration_sec": 48
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795638274204631065",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795638274204631065.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 111,
+        "clicks": 3,
+        "scrolls": 29,
+        "mousemoves": 52,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 36246,
+        "duration_sec": 36
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795636592035758322",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795636592035758322.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 162,
+        "clicks": 4,
+        "scrolls": 51,
+        "mousemoves": 73,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 53970,
+        "duration_sec": 54
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795634142383702087",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795634142383702087.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 152,
+        "clicks": 4,
+        "scrolls": 55,
+        "mousemoves": 57,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 58078,
+        "duration_sec": 58
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795633024416350281",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795633024416350281.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 180,
+        "clicks": 4,
+        "scrolls": 57,
+        "mousemoves": 81,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 54771,
+        "duration_sec": 55
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795631430410698998",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795631430410698998.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 172,
+        "clicks": 4,
+        "scrolls": 57,
+        "mousemoves": 73,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 55025,
+        "duration_sec": 55
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795633056297255267",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795633056297255267.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 189,
+        "clicks": 4,
+        "scrolls": 63,
+        "mousemoves": 84,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 51753,
+        "duration_sec": 52
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795628547722707187",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795628547722707187.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 125,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 36,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 36611,
+        "duration_sec": 37
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795627004144910481",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795627004144910481.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 187,
+        "clicks": 4,
+        "scrolls": 57,
+        "mousemoves": 88,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 59015,
+        "duration_sec": 59
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795627186371690698",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795627186371690698.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 176,
+        "clicks": 4,
+        "scrolls": 57,
+        "mousemoves": 78,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 51657,
+        "duration_sec": 52
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795626112315555930",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795626112315555930.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 142,
+        "clicks": 4,
+        "scrolls": 53,
+        "mousemoves": 51,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 47607,
+        "duration_sec": 48
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795624231152910583",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795624231152910583.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 146,
+        "clicks": 4,
+        "scrolls": 55,
+        "mousemoves": 55,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 50171,
+        "duration_sec": 50
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795621102022033600",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795621102022033600.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 148,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 55,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 49197,
+        "duration_sec": 49
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795622696364540015",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795622696364540015.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 178,
+        "clicks": 4,
+        "scrolls": 60,
+        "mousemoves": 78,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 52564,
+        "duration_sec": 53
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795619344840654964",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795619344840654964.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 165,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 71,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 51814,
+        "duration_sec": 52
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795619201339359567",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795619201339359567.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 77,
+        "clicks": 1,
+        "scrolls": 27,
+        "mousemoves": 29,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 29251,
+        "duration_sec": 29
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795618109972807713",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795618109972807713.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 364,
+        "clicks": 9,
+        "scrolls": 58,
+        "mousemoves": 85,
+        "inputs": 132,
+        "keydowns": 0,
+        "duration_ms": 56370,
+        "duration_sec": 56
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795615836727410834",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795615836727410834.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 166,
+        "clicks": 4,
+        "scrolls": 50,
+        "mousemoves": 77,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 58993,
+        "duration_sec": 59
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795614540002230513",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795614540002230513.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 163,
+        "clicks": 4,
+        "scrolls": 53,
+        "mousemoves": 70,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 52994,
+        "duration_sec": 53
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795613386990420098",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795613386990420098.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 160,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 65,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 48140,
+        "duration_sec": 48
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795613028638261419",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795613028638261419.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 155,
+        "clicks": 4,
+        "scrolls": 58,
+        "mousemoves": 58,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 52954,
+        "duration_sec": 53
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795608887794598131",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795608887794598131.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 398,
+        "clicks": 9,
+        "scrolls": 53,
+        "mousemoves": 85,
+        "inputs": 163,
+        "keydowns": 0,
+        "duration_ms": 58048,
+        "duration_sec": 58
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795608786160844803",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795608786160844803.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 183,
+        "clicks": 4,
+        "scrolls": 53,
+        "mousemoves": 88,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 52508,
+        "duration_sec": 53
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795607423343394844",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795607423343394844.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 159,
+        "clicks": 4,
+        "scrolls": 58,
+        "mousemoves": 62,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 51730,
+        "duration_sec": 52
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795603865184764166",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795603865184764166.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 175,
+        "clicks": 4,
+        "scrolls": 58,
+        "mousemoves": 77,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 57967,
+        "duration_sec": 58
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795604333534380090",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795604333534380090.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 160,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 68,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 56699,
+        "duration_sec": 57
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795602344157642774",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795602344157642774.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 194,
+        "clicks": 4,
+        "scrolls": 58,
+        "mousemoves": 94,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 59552,
+        "duration_sec": 60
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795601760976633911",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795601760976633911.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 149,
+        "clicks": 4,
+        "scrolls": 57,
+        "mousemoves": 55,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 48260,
+        "duration_sec": 48
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795601698947858501",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795601698947858501.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 61,
+        "clicks": 0,
+        "scrolls": 4,
+        "mousemoves": 40,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 21362,
+        "duration_sec": 21
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795600390619136168",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795600390619136168.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 168,
+        "clicks": 4,
+        "scrolls": 62,
+        "mousemoves": 65,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 58351,
+        "duration_sec": 58
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795599690620469534",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795599690620469534.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 166,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 72,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 50414,
+        "duration_sec": 50
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795600403711918202",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795600403711918202.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 120,
+        "clicks": 3,
+        "scrolls": 29,
+        "mousemoves": 57,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 48929,
+        "duration_sec": 49
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795593980991766797",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795593980991766797.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 165,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 68,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 56064,
+        "duration_sec": 56
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795597055691849922",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795597055691849922.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 135,
+        "clicks": 4,
+        "scrolls": 53,
+        "mousemoves": 47,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 44734,
+        "duration_sec": 45
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795589998322123088",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795589998322123088.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 195,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 97,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 52472,
+        "duration_sec": 52
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795589121046741197",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795589121046741197.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 104,
+        "clicks": 2,
+        "scrolls": 25,
+        "mousemoves": 52,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 39797,
+        "duration_sec": 40
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795588167318372549",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795588167318372549.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 178,
+        "clicks": 4,
+        "scrolls": 52,
+        "mousemoves": 85,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 61216,
+        "duration_sec": 61
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795588084130120008",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795588084130120008.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 171,
+        "clicks": 4,
+        "scrolls": 55,
+        "mousemoves": 77,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 51243,
+        "duration_sec": 51
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795587857521574023",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795587857521574023.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 166,
+        "clicks": 4,
+        "scrolls": 56,
+        "mousemoves": 70,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 54815,
+        "duration_sec": 55
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795587589845549346",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795587589845549346.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 171,
+        "clicks": 4,
+        "scrolls": 48,
+        "mousemoves": 84,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 53451,
+        "duration_sec": 53
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795587184947101830",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795587184947101830.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 157,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 64,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 49544,
+        "duration_sec": 50
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795586003843416377",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795586003843416377.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 185,
+        "clicks": 4,
+        "scrolls": 59,
+        "mousemoves": 85,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 54197,
+        "duration_sec": 54
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795583329569865989",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795583329569865989.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 92,
+        "clicks": 1,
+        "scrolls": 26,
+        "mousemoves": 43,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 40130,
+        "duration_sec": 40
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795573835781898259",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795573835781898259.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 172,
+        "clicks": 4,
+        "scrolls": 52,
+        "mousemoves": 80,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 54047,
+        "duration_sec": 54
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795573836341051657",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795573836341051657.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 345,
+        "clicks": 9,
+        "scrolls": 55,
+        "mousemoves": 79,
+        "inputs": 124,
+        "keydowns": 0,
+        "duration_ms": 61134,
+        "duration_sec": 61
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795573856715145327",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795573856715145327.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 97,
+        "clicks": 1,
+        "scrolls": 26,
+        "mousemoves": 48,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 35604,
+        "duration_sec": 36
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795573857427914762",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795573857427914762.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 172,
+        "clicks": 4,
+        "scrolls": 59,
+        "mousemoves": 71,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 57603,
+        "duration_sec": 58
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795573857878802503",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795573857878802503.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 152,
+        "clicks": 4,
+        "scrolls": 51,
+        "mousemoves": 62,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 50292,
+        "duration_sec": 50
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795573926213451887",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795573926213451887.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 171,
+        "clicks": 4,
+        "scrolls": 57,
+        "mousemoves": 73,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 52517,
+        "duration_sec": 53
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795573934554349809",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795573934554349809.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 173,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 78,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 53269,
+        "duration_sec": 53
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795573949624221889",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795573949624221889.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 132,
+        "clicks": 2,
+        "scrolls": 27,
+        "mousemoves": 75,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 45399,
+        "duration_sec": 45
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795573884956967073",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795573884956967073.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 171,
+        "clicks": 4,
+        "scrolls": 59,
+        "mousemoves": 70,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 47322,
+        "duration_sec": 47
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795573933816414572",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795573933816414572.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 173,
+        "clicks": 4,
+        "scrolls": 54,
+        "mousemoves": 78,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 51571,
+        "duration_sec": 52
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4795572393626304855",
+      "date": "2026-08-19",
+      "file": "webvisor/2026-08-19/visit_4795572393626304855.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 44,
+        "clicks": 7,
+        "scrolls": 26,
+        "mousemoves": 0,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 3705,
+        "duration_sec": 4
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4774373543171850558",
+      "date": "2026-08-18",
+      "file": "webvisor/2026-08-18/visit_4774373543171850558.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 15,
+        "clicks": 0,
+        "scrolls": 1,
+        "mousemoves": 0,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 3753,
+        "duration_sec": 4
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4774370546528813105",
+      "date": "2026-08-18",
+      "file": "webvisor/2026-08-18/visit_4774370546528813105.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 9,
+        "clicks": 0,
+        "scrolls": 1,
+        "mousemoves": 0,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 703,
+        "duration_sec": 1
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4772597797983092879",
+      "date": "2026-08-18",
+      "file": "webvisor/2026-08-18/visit_4772597797983092879.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 14,
+        "clicks": 0,
+        "scrolls": 1,
+        "mousemoves": 0,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 7698,
+        "duration_sec": 8
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4771588676988436706",
+      "date": "2026-08-18",
+      "file": "webvisor/2026-08-18/visit_4771588676988436706.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 7,
+        "clicks": 0,
+        "scrolls": 1,
+        "mousemoves": 0,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 13987,
+        "duration_sec": 14
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4771588580331749391",
+      "date": "2026-08-18",
+      "file": "webvisor/2026-08-18/visit_4771588580331749391.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 10,
+        "clicks": 0,
+        "scrolls": 1,
+        "mousemoves": 0,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 21332,
+        "duration_sec": 21
+      },
+      "visit_panel": {}
+    },
+    {
+      "visit_id": "4771543108508451143",
+      "date": "2026-08-18",
+      "file": "webvisor/2026-08-18/visit_4771543108508451143.json",
+      "status": "ok",
+      "summary": {
+        "total_events": 79,
+        "clicks": 0,
+        "scrolls": 35,
+        "mousemoves": 32,
+        "inputs": 0,
+        "keydowns": 0,
+        "duration_ms": 6411,
+        "duration_sec": 6
+      },
+      "visit_panel": {}
+    }
+  ],
+  "stats": {
+    "ok": 308,
+    "error": 0,
+    "by_date": {
+      "2026-08-19": 302,
+      "2026-08-18": 6
+    }
+  }
+}

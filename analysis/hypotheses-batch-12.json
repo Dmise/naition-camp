@@ -1,0 +1,462 @@
+{
+  "batch": 12,
+  "visits": [
+    {
+      "visit_id": "4795872243509100701",
+      "converted": false,
+      "duration_sec": 62,
+      "max_scroll_ratio": 0.9145,
+      "deepest_section": "form",
+      "last_section": "form",
+      "cta_clicked": true,
+      "form_fields_touched": [],
+      "submit_attempted": false,
+      "hypotheses": [
+        {
+          "id": "cards_look_clickable",
+          "confidence": "high",
+          "evidence": "Three clicks on non-interactive target 1 (html) at x=211, y_meta≈-2919/-2999/-2917 while scroll.meta.y=4238 (program 49.8%) at t=44.0/45.0/46.1s. Program-module cards use cursor:pointer but have no href/handler."
+        },
+        {
+          "id": "program_too_long",
+          "confidence": "high",
+          "evidence": "Program dwell 27.9s (longest block 18–52%) — 45% of 62s session. Hero 19.0s then 27.9s slog through program before injuries/price."
+        },
+        {
+          "id": "cta_clicked_no_form_fill",
+          "confidence": "high",
+          "evidence": "Clicked price CTA node 414 (btn-register «Записаться») at t=55.9s from scroll y=6851 (instructors 80.5%). 0 inputs, 0 keydowns on fields 485/490/495/500; submit 503 never clicked."
+        },
+        {
+          "id": "form_reached_no_interact",
+          "confidence": "high",
+          "evidence": "After CTA, scrolled to max y=7785 (91.5% form) with ~5.5s form dwell. Fields 485/490/495/500 never focused; session ended on form without typing."
+        }
+      ]
+    },
+    {
+      "visit_id": "4795873207667654990",
+      "converted": false,
+      "duration_sec": 65,
+      "max_scroll_ratio": 0.8928,
+      "deepest_section": "form",
+      "last_section": "price",
+      "cta_clicked": true,
+      "form_fields_touched": [],
+      "submit_attempted": false,
+      "hypotheses": [
+        {
+          "id": "cards_look_clickable",
+          "confidence": "high",
+          "evidence": "Three clicks on target 1 (html) at x=211, y_meta≈-2940/-3020/-2938 while scroll.meta.y=4259 (program 50.0%) at t=47.0/47.9/49.1s; no navigation or expand followed."
+        },
+        {
+          "id": "program_too_long",
+          "confidence": "high",
+          "evidence": "Program dwell 26.8s of 65s (~41%); hero 23.4s. Injuries/legal/photo skimmed in 0.2/0.3/0.1s before price."
+        },
+        {
+          "id": "cta_clicked_no_form_fill",
+          "confidence": "high",
+          "evidence": "Clicked CTA 414 at t=58.6s from instructors y=6774 (79.6%). Reached form max y=7600 (89.3%) with 0 field events; submit 503 never clicked."
+        },
+        {
+          "id": "price_sticker_shock",
+          "confidence": "medium",
+          "evidence": "Reached form (max y=7600, 89.3%) after CTA but last scroll y=7428 (87.3%, price 81–88%). Scrolled back to tariffs without submitting; ~3.2s price dwell at exit."
+        }
+      ]
+    },
+    {
+      "visit_id": "4795875169827291147",
+      "converted": false,
+      "duration_sec": 56,
+      "max_scroll_ratio": 0.8883,
+      "deepest_section": "form",
+      "last_section": "price",
+      "cta_clicked": true,
+      "form_fields_touched": [],
+      "submit_attempted": false,
+      "hypotheses": [
+        {
+          "id": "cards_look_clickable",
+          "confidence": "high",
+          "evidence": "Three html (target 1) clicks at t=38.0/39.3/40.4s, x=211, y_meta≈-2739/-2819/-2737, scroll.meta.y=4058 (program 47.7%); no mid-page CTA hit."
+        },
+        {
+          "id": "no_midpage_cta",
+          "confidence": "medium",
+          "evidence": "17.9s in program (18–52%) with only dead html clicks; CTA 414 first appears at t=49.2s after scroll to price y=6903 (81.1%)."
+        },
+        {
+          "id": "cta_clicked_no_form_fill",
+          "confidence": "high",
+          "evidence": "Clicked CTA 414 at t=49.2s from price y=6903 (81.1%). max y=7562 (88.8% form), 0 inputs on 485/490/495/500, no submit 503."
+        },
+        {
+          "id": "price_sticker_shock",
+          "confidence": "medium",
+          "evidence": "After reaching form (max y=7562, 88.8%) session ended on price (last y=7393, 86.8%). Returned to tariffs without submitting."
+        }
+      ]
+    },
+    {
+      "visit_id": "4795877248727777329",
+      "converted": false,
+      "duration_sec": 58,
+      "max_scroll_ratio": 0.8857,
+      "deepest_section": "form",
+      "last_section": "form",
+      "cta_clicked": true,
+      "form_fields_touched": [],
+      "submit_attempted": false,
+      "hypotheses": [
+        {
+          "id": "cards_look_clickable",
+          "confidence": "high",
+          "evidence": "Three target-1 clicks at t=40.1/41.4/42.8s on program y=3946 (46.4%), click y_meta≈-2627/-2707/-2625; no program/injury nodes activated."
+        },
+        {
+          "id": "no_hero_cta",
+          "confidence": "medium",
+          "evidence": "Hero dwell 23.8s of 58s with no hero CTA; first clicks only after reaching program y=3946 (46.4%)."
+        },
+        {
+          "id": "cta_clicked_no_form_fill",
+          "confidence": "high",
+          "evidence": "CTA 414 clicked at t=52.4s from price y=6950 (81.6%) after ~7.5s price reading. 0 field events on 485/490/495/500, no submit 503."
+        },
+        {
+          "id": "form_reached_no_interact",
+          "confidence": "high",
+          "evidence": "Last/max y=7540 (88.6% form), ~5.1s form dwell after CTA. Fields 485/490/495/500 untouched; windowblur at t=58.3s still in form."
+        }
+      ]
+    },
+    {
+      "visit_id": "4795877942669082792",
+      "converted": false,
+      "duration_sec": 52,
+      "max_scroll_ratio": 0.8854,
+      "deepest_section": "form",
+      "last_section": "price",
+      "cta_clicked": true,
+      "form_fields_touched": [],
+      "submit_attempted": false,
+      "hypotheses": [
+        {
+          "id": "program_too_long",
+          "confidence": "high",
+          "evidence": "Program dwell 25.8s of 52s (~50%); first interaction is three dead clicks at program y=3597 (42.3%) at t=36.6/37.5/38.4s."
+        },
+        {
+          "id": "no_midpage_cta",
+          "confidence": "medium",
+          "evidence": "Clicks at t=36.6/37.5/38.4s hit html target 1 in program; next click is CTA 414 only at t=45.3s after scrolling to instructors y=6719 (78.9%)."
+        },
+        {
+          "id": "cta_clicked_no_form_fill",
+          "confidence": "high",
+          "evidence": "Clicked CTA 414 at t=45.3s from instructors y=6719 (78.9%). max y=7537 (88.5% form), 0 inputs, submit 503 never clicked."
+        },
+        {
+          "id": "price_sticker_shock",
+          "confidence": "medium",
+          "evidence": "Reached form (max y=7537, 88.5%) but last scroll y=7437 (87.4%, price). Scrolled back to tariffs; ~4.4s price dwell before exit."
+        }
+      ]
+    },
+    {
+      "visit_id": "4795878351934062768",
+      "converted": false,
+      "duration_sec": 53,
+      "max_scroll_ratio": 0.8854,
+      "deepest_section": "form",
+      "last_section": "price",
+      "cta_clicked": true,
+      "form_fields_touched": [],
+      "submit_attempted": false,
+      "hypotheses": [
+        {
+          "id": "cards_look_clickable",
+          "confidence": "high",
+          "evidence": "Three html clicks at t=38.1/39.3/40.2s, x=211, y_meta≈-2197/-2277/-2195, scroll.meta.y=3516 (program 41.3%)."
+        },
+        {
+          "id": "cta_clicked_no_form_fill",
+          "confidence": "high",
+          "evidence": "CTA 414 at t=46.7s from price y=6903 (81.1%). max y=7537 (88.5% form), ~1.9s form dwell, 0 field events, no submit 503."
+        },
+        {
+          "id": "form_reached_no_interact",
+          "confidence": "high",
+          "evidence": "After CTA scroll-to-form, fields 485/490/495/500 never focused. Scrolled back to price (last y=7262, 85.3%) before windowblur."
+        },
+        {
+          "id": "price_sticker_shock",
+          "confidence": "medium",
+          "evidence": "Reached form (max y=7537) then last position y=7262 (85.3%, price 81–88%) with ~4.5s price dwell — returned to tariffs without submitting."
+        }
+      ]
+    },
+    {
+      "visit_id": "4795881176127766710",
+      "converted": false,
+      "duration_sec": 64,
+      "max_scroll_ratio": 0.891,
+      "deepest_section": "form",
+      "last_section": "price",
+      "cta_clicked": true,
+      "form_fields_touched": [],
+      "submit_attempted": false,
+      "hypotheses": [
+        {
+          "id": "program_too_long",
+          "confidence": "high",
+          "evidence": "Program dwell 26.7s of 64s (~42%); dead clicks at program y=4239 (49.8%) at t=47.2/48.2/49.1s before reaching price."
+        },
+        {
+          "id": "cards_look_clickable",
+          "confidence": "high",
+          "evidence": "Three target-1 clicks at t=47.2/48.2/49.1s, x=211, y_meta≈-2920/-3000/-2918 while parked at program y=4239 (49.8%)."
+        },
+        {
+          "id": "cta_clicked_no_form_fill",
+          "confidence": "high",
+          "evidence": "CTA 414 at t=57.9s from instructors y=6847 (80.4%). max y=7585 (89.1% form) then last y=7378 (86.7% price); 0 inputs, no submit 503."
+        },
+        {
+          "id": "price_sticker_shock",
+          "confidence": "medium",
+          "evidence": "After CTA reached form (max y=7585, 89.1%) but ended on price (last y=7378, 86.7%). Returned to tariffs without form fill."
+        }
+      ]
+    },
+    {
+      "visit_id": "4795882170835271731",
+      "converted": false,
+      "duration_sec": 59,
+      "max_scroll_ratio": 0.8854,
+      "deepest_section": "form",
+      "last_section": "price",
+      "cta_clicked": true,
+      "form_fields_touched": [],
+      "submit_attempted": false,
+      "hypotheses": [
+        {
+          "id": "no_hero_cta",
+          "confidence": "medium",
+          "evidence": "Hero dwell 25.1s of 59s with no hero CTA; first clicks only after reaching program y=4025 (47.3%) at t=45.2s."
+        },
+        {
+          "id": "cards_look_clickable",
+          "confidence": "high",
+          "evidence": "Three html clicks at t=45.2/46.1/47.5s, x=211, y_meta≈-2706/-2786/-2704, scroll.meta.y=4025 (program 47.3%)."
+        },
+        {
+          "id": "cta_clicked_no_form_fill",
+          "confidence": "high",
+          "evidence": "CTA 414 at t=53.2s from price y=7084 (83.2%) after ~7.3s price reading. max y=7537 (88.5% form), 0 field events, no submit 503."
+        },
+        {
+          "id": "price_sticker_shock",
+          "confidence": "medium",
+          "evidence": "Reached form (max y=7537) with only ~1.2s form dwell; last scroll y=7273 (85.4%, price). Returned to tariffs without submitting."
+        }
+      ]
+    },
+    {
+      "visit_id": "4795883165749346489",
+      "converted": false,
+      "duration_sec": 48,
+      "max_scroll_ratio": 0.8854,
+      "deepest_section": "form",
+      "last_section": "price",
+      "cta_clicked": true,
+      "form_fields_touched": [],
+      "submit_attempted": false,
+      "hypotheses": [
+        {
+          "id": "cards_look_clickable",
+          "confidence": "high",
+          "evidence": "Three target-1 clicks at t=33.3/34.4/35.5s, program y=3766 (44.2%), click y_meta≈-2447/-2527/-2445."
+        },
+        {
+          "id": "no_midpage_cta",
+          "confidence": "medium",
+          "evidence": "Program dwell 21.0s with only dead html clicks; CTA 414 appears at t=42.4s after scroll to price y=6903 (81.1%). Shortest session in batch (48s)."
+        },
+        {
+          "id": "cta_clicked_no_form_fill",
+          "confidence": "high",
+          "evidence": "Clicked CTA 414 at t=42.4s from price y=6903 (81.1%). max y=7537 (88.5% form), ~1.1s form dwell, 0 inputs, no submit 503."
+        },
+        {
+          "id": "price_sticker_shock",
+          "confidence": "medium",
+          "evidence": "Reached form then last scroll y=7341 (86.2%, price). Scrolled back to tariffs without submitting before windowblur at t=48.0s."
+        }
+      ]
+    },
+    {
+      "visit_id": "4795884337317019703",
+      "converted": false,
+      "duration_sec": 58,
+      "max_scroll_ratio": 0.9012,
+      "deepest_section": "form",
+      "last_section": "form",
+      "cta_clicked": true,
+      "form_fields_touched": [],
+      "submit_attempted": false,
+      "hypotheses": [
+        {
+          "id": "program_too_long",
+          "confidence": "high",
+          "evidence": "Program dwell 26.4s of 58s (~46%); three html clicks at program y=4236 (49.8%) at t=41.2/42.3/43.4s."
+        },
+        {
+          "id": "cards_look_clickable",
+          "confidence": "high",
+          "evidence": "Three clicks on target 1 at x=211, y_meta≈-2917/-2997/-2915 while scroll.meta.y=4236 (program 49.8%) at t=41.2/42.3/43.4s."
+        },
+        {
+          "id": "cta_clicked_no_form_fill",
+          "confidence": "high",
+          "evidence": "Clicked CTA 414 at t=52.1s from instructors y=6769 (79.5%). Reached form max y=7672 (90.1%) with 0 field events; submit 503 never clicked."
+        },
+        {
+          "id": "form_reached_no_interact",
+          "confidence": "high",
+          "evidence": "Ended on form last/max y=7672 (90.1%), ~4.9s form dwell. No focus/input on 485/490/495/500; windowblur at t=57.9s still in form."
+        }
+      ]
+    },
+    {
+      "visit_id": "4795888715562483757",
+      "converted": false,
+      "duration_sec": 50,
+      "max_scroll_ratio": 0.8854,
+      "deepest_section": "form",
+      "last_section": "form",
+      "cta_clicked": true,
+      "form_fields_touched": [],
+      "submit_attempted": false,
+      "hypotheses": [
+        {
+          "id": "no_hero_cta",
+          "confidence": "medium",
+          "evidence": "Hero 22.5s of 50s with no hero CTA; about 1.0s then program clicks starting t=35.8s."
+        },
+        {
+          "id": "cards_look_clickable",
+          "confidence": "high",
+          "evidence": "Three html clicks at t=35.8/37.2/38.1s, x=211, y_meta≈-2505/-2585/-2503, scroll.meta.y=3824 (program 44.9%)."
+        },
+        {
+          "id": "cta_clicked_no_form_fill",
+          "confidence": "high",
+          "evidence": "CTA 414 at t=44.9s from price y=6903 (81.1%). max y=7537 (88.5% form), 0 inputs on 485/490/495/500, no submit 503."
+        },
+        {
+          "id": "form_reached_no_interact",
+          "confidence": "high",
+          "evidence": "Last/max y=7537 (88.5% form), ~4.2s form dwell after CTA. Fields untouched; session ended on form without typing."
+        }
+      ]
+    },
+    {
+      "visit_id": "4795889933621657697",
+      "converted": false,
+      "duration_sec": 50,
+      "max_scroll_ratio": 0.8854,
+      "deepest_section": "form",
+      "last_section": "price",
+      "cta_clicked": true,
+      "form_fields_touched": [],
+      "submit_attempted": false,
+      "hypotheses": [
+        {
+          "id": "cards_look_clickable",
+          "confidence": "high",
+          "evidence": "Three html clicks at t=33.1/34.5/35.8s, x=211, y_meta≈-2859/-2939/-2857, scroll.meta.y=4178 (program 49.1%)."
+        },
+        {
+          "id": "instructors_trust",
+          "confidence": "low",
+          "evidence": "~6.4s in instructors (74–81%) reading bios before CTA; click 414 at t=44.8s from price y=6903 (81.1%). Still no form fill after scroll-to-register."
+        },
+        {
+          "id": "cta_clicked_no_form_fill",
+          "confidence": "high",
+          "evidence": "Clicked CTA 414 at t=44.8s. max y=7537 (88.5% form), ~1.6s form dwell, 0 field events, no submit 503."
+        },
+        {
+          "id": "price_sticker_shock",
+          "confidence": "medium",
+          "evidence": "Reached form (max y=7537) but last scroll y=7377 (86.7%, price). Returned to tariffs without submitting."
+        }
+      ]
+    },
+    {
+      "visit_id": "4795890257045487959",
+      "converted": false,
+      "duration_sec": 51,
+      "max_scroll_ratio": 0.9154,
+      "deepest_section": "form",
+      "last_section": "form",
+      "cta_clicked": true,
+      "form_fields_touched": [],
+      "submit_attempted": false,
+      "hypotheses": [
+        {
+          "id": "cards_look_clickable",
+          "confidence": "high",
+          "evidence": "Three target-1 clicks at t=35.9/37.0/38.4s on program y=4038 (47.4%), click y_meta≈-2719/-2799/-2717."
+        },
+        {
+          "id": "cta_clicked_no_form_fill",
+          "confidence": "high",
+          "evidence": "CTA 414 at t=45.4s from price y=6903 (81.1%). Reached deepest form y=7793 (91.5%), 0 inputs/keydowns, no submit 503."
+        },
+        {
+          "id": "form_reached_no_interact",
+          "confidence": "high",
+          "evidence": "Deepest/last form y=7793 (91.5%), ~5.2s form dwell after CTA. Fields 485/490/495/500 never focused; windowblur at t=51.2s."
+        }
+      ]
+    },
+    {
+      "visit_id": "4795891667444170939",
+      "converted": false,
+      "duration_sec": 53,
+      "max_scroll_ratio": 0.8857,
+      "deepest_section": "form",
+      "last_section": "form",
+      "cta_clicked": true,
+      "form_fields_touched": [],
+      "submit_attempted": false,
+      "hypotheses": [
+        {
+          "id": "program_too_long",
+          "confidence": "high",
+          "evidence": "Program dwell 25.5s of 53s (~48%); dead clicks at program y=3769 (44.3%) at t=38.8/39.9/40.9s."
+        },
+        {
+          "id": "cards_look_clickable",
+          "confidence": "high",
+          "evidence": "Three target-1 clicks at t=38.8/39.9/40.9s, x=211, y_meta≈-2450/-2530/-2448, scroll.meta.y=3769 (program 44.3%)."
+        },
+        {
+          "id": "cta_clicked_no_form_fill",
+          "confidence": "high",
+          "evidence": "CTA 414 at t=48.0s from price y=6971 (81.9%) after ~5.0s price reading. max y=7540 (88.6% form), 0 field events, no submit 503."
+        },
+        {
+          "id": "form_reached_no_interact",
+          "confidence": "high",
+          "evidence": "Last/max y=7540 (88.6% form), ~4.8s form dwell. Fields 485/490/495/500 untouched; submit 503 never clicked."
+        }
+      ]
+    }
+  ]
+}

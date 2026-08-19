@@ -8,6 +8,7 @@ CREATE TABLE IF NOT EXISTS orders (
     time DATETIME DEFAULT CURRENT_TIMESTAMP,
     name TEXT NOT NULL,
     phone TEXT NOT NULL,
-    email TEXT NOT NULL,
-    purpose TEXT NOT NULL
+    email TEXT,
+    purpose TEXT,
+    plan TEXT
 );

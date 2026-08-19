@@ -14,7 +14,7 @@ try {
     )->fetchAll();
 
     $orders = $pdo->query(
-        'SELECT id, time, name, phone, email, purpose
+        'SELECT id, time, name, phone, email, purpose, plan
          FROM orders ORDER BY time DESC, id DESC'
     )->fetchAll();
 

@@ -33,7 +33,7 @@ if ($isAuthorized) {
     try {
         $pdo = ensureDatabaseReady();
         $orders = $pdo->query(
-            'SELECT id, time, name, phone, email, purpose
+            'SELECT id, time, name, phone, email, purpose, plan
              FROM orders ORDER BY time DESC, id DESC'
         )->fetchAll();
     } catch (Throwable $e) {
@@ -159,12 +159,13 @@ if ($isAuthorized) {
                         <th>Телефон</th>
                         <th>E-mail</th>
                         <th>Цель</th>
+                        <th>Тариф</th>
                     </tr>
                 </thead>
                 <tbody>
                     <?php if ($orders === []): ?>
                         <tr>
-                            <td colspan="6">Заявок пока нет.</td>
+                            <td colspan="7">Заявок пока нет.</td>
                         </tr>
                     <?php else: ?>
                         <?php foreach ($orders as $order): ?>
@@ -173,8 +174,9 @@ if ($isAuthorized) {
                                 <td><?= htmlspecialchars((string) $order['time'], ENT_QUOTES, 'UTF-8') ?></td>
                                 <td><?= htmlspecialchars((string) $order['name'], ENT_QUOTES, 'UTF-8') ?></td>
                                 <td><?= htmlspecialchars((string) $order['phone'], ENT_QUOTES, 'UTF-8') ?></td>
-                                <td><?= htmlspecialchars((string) $order['email'], ENT_QUOTES, 'UTF-8') ?></td>
-                                <td><?= nl2br(htmlspecialchars((string) $order['purpose'], ENT_QUOTES, 'UTF-8')) ?></td>
+                                <td><?= htmlspecialchars((string) ($order['email'] ?? ''), ENT_QUOTES, 'UTF-8') ?></td>
+                                <td><?= nl2br(htmlspecialchars((string) ($order['purpose'] ?? ''), ENT_QUOTES, 'UTF-8')) ?></td>
+                                <td><?= htmlspecialchars((string) ($order['plan'] ?? ''), ENT_QUOTES, 'UTF-8') ?></td>
                             </tr>
                         <?php endforeach; ?>
                     <?php endif; ?>
