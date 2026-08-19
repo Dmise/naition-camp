@@ -17,6 +17,7 @@ $name = trim((string) ($_POST['name'] ?? ''));
 $phone = trim((string) ($_POST['phone'] ?? ''));
 $email = trim((string) ($_POST['email'] ?? ''));
 $purpose = trim((string) ($_POST['purpose'] ?? ''));
+$plan = trim((string) ($_POST['plan'] ?? ''));
 
 if ($name === '') {
     echo json_encode(['ok' => false, 'error' => 'Укажите имя.'], JSON_UNESCAPED_UNICODE);
@@ -28,29 +29,25 @@ if ($phone === '') {
     exit;
 }
 
-if ($email === '' || !filter_var($email, FILTER_VALIDATE_EMAIL)) {
+if ($email !== '' && !filter_var($email, FILTER_VALIDATE_EMAIL)) {
     echo json_encode(['ok' => false, 'error' => 'Укажите корректный e-mail.'], JSON_UNESCAPED_UNICODE);
-    exit;
-}
-
-if ($purpose === '') {
-    echo json_encode(['ok' => false, 'error' => 'Укажите цель прохождения курса.'], JSON_UNESCAPED_UNICODE);
     exit;
 }
 
 try {
     ensureDatabaseReady();
 
-    dbExecuteUntilSuccess(function (PDO $pdo) use ($name, $phone, $email, $purpose): void {
+    dbExecuteUntilSuccess(function (PDO $pdo) use ($name, $phone, $email, $purpose, $plan): void {
         $stmt = $pdo->prepare(
-            'INSERT INTO orders (name, phone, email, purpose)
-             VALUES (:name, :phone, :email, :purpose)'
+            'INSERT INTO orders (name, phone, email, purpose, plan)
+             VALUES (:name, :phone, :email, :purpose, :plan)'
         );
         $stmt->execute([
             'name' => $name,
             'phone' => $phone,
-            'email' => $email,
-            'purpose' => $purpose,
+            'email' => $email !== '' ? $email : null,
+            'purpose' => $purpose !== '' ? $purpose : null,
+            'plan' => $plan !== '' ? $plan : null,
         ]);
     });
 

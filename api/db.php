@@ -134,11 +134,69 @@ function migrateRemoveBotSessionId(PDO $pdo): void
     }
 }
 
+function migrateOrdersOptionalFields(PDO $pdo): void
+{
+    $needsRebuild = false;
+
+    if (tableHasColumn($pdo, 'orders', 'email')) {
+        $stmt = $pdo->query('PRAGMA table_info(orders)');
+        foreach ($stmt->fetchAll() as $info) {
+            if (($info['name'] ?? '') === 'email' && (int) ($info['notnull'] ?? 0) === 1) {
+                $needsRebuild = true;
+                break;
+            }
+        }
+    }
+
+    if (!$needsRebuild && !tableHasColumn($pdo, 'orders', 'plan')) {
+        $pdo->exec('ALTER TABLE orders ADD COLUMN plan TEXT');
+    }
+
+    if (!$needsRebuild) {
+        return;
+    }
+
+    $pdo->exec('BEGIN IMMEDIATE');
+    try {
+        $pdo->exec(
+            'CREATE TABLE orders_new (
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                time DATETIME DEFAULT CURRENT_TIMESTAMP,
+                name TEXT NOT NULL,
+                phone TEXT NOT NULL,
+                email TEXT,
+                purpose TEXT,
+                plan TEXT
+            )'
+        );
+
+        if (tableHasColumn($pdo, 'orders', 'plan')) {
+            $pdo->exec(
+                'INSERT INTO orders_new (id, time, name, phone, email, purpose, plan)
+                 SELECT id, time, name, phone, email, purpose, plan FROM orders'
+            );
+        } else {
+            $pdo->exec(
+                'INSERT INTO orders_new (id, time, name, phone, email, purpose)
+                 SELECT id, time, name, phone, email, purpose FROM orders'
+            );
+        }
+
+        $pdo->exec('DROP TABLE orders');
+        $pdo->exec('ALTER TABLE orders_new RENAME TO orders');
+        $pdo->exec('COMMIT');
+    } catch (Throwable $e) {
+        $pdo->exec('ROLLBACK');
+        throw $e;
+    }
+}
+
 function ensureDatabaseReady(): PDO
 {
     $pdo = getPdo();
     initDatabase($pdo);
     migrateRemoveBotSessionId($pdo);
+    migrateOrdersOptionalFields($pdo);
 
     return $pdo;
 }
