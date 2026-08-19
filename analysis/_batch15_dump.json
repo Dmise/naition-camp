@@ -1,0 +1,1410 @@
+[
+  {
+    "visit_id": "4795932587707072829",
+    "duration_sec": 51,
+    "duration_ms": 50983,
+    "pageHeight": 8513,
+    "max_y": 7537,
+    "max_scroll_ratio": 0.8854,
+    "deepest_section": "form",
+    "last_y": 7537,
+    "last_ratio": 0.8854,
+    "last_section": "form",
+    "dwell_ms": {
+      "hero": 19865,
+      "about": 998,
+      "program": 19683,
+      "injuries": 216,
+      "legal": 100,
+      "photo": 200,
+      "instructors": 5386,
+      "price": 1647,
+      "form": 2888
+    },
+    "cta_clicked": [
+      414
+    ],
+    "cta_click_events": [
+      {
+        "stamp": 46326,
+        "target": 414,
+        "x": 259,
+        "y": 436,
+        "scroll_y": 6827,
+        "scroll_ratio": 0.8019
+      }
+    ],
+    "form_fields_touched": [],
+    "submit_attempted": false,
+    "converted": false,
+    "dead_card_clicks": [
+      {
+        "stamp": 36102,
+        "target": 1,
+        "x": 211,
+        "y": -2546,
+        "scroll_y": 3865,
+        "scroll_ratio": 0.454,
+        "section": "program"
+      },
+      {
+        "stamp": 37271,
+        "target": 1,
+        "x": 211,
+        "y": -2626,
+        "scroll_y": 3865,
+        "scroll_ratio": 0.454,
+        "section": "program"
+      },
+      {
+        "stamp": 38484,
+        "target": 1,
+        "x": 211,
+        "y": -2544,
+        "scroll_y": 3865,
+        "scroll_ratio": 0.454,
+        "section": "program"
+      }
+    ],
+    "stationary": {
+      "ms": 17947,
+      "y": 0,
+      "start": 0,
+      "end": 17947
+    },
+    "mid_blur": [],
+    "end_blur": [
+      {
+        "stamp": 50982,
+        "type": "windowblur"
+      }
+    ],
+    "program_dwell": 19683,
+    "hero_dwell": 19865,
+    "form_dwell": 2888,
+    "price_dwell": 1647,
+    "instructors_dwell": 5386,
+    "legal_dwell": 100,
+    "photo_dwell": 200,
+    "mid_fast": 516,
+    "summary": {
+      "total_events": 168,
+      "clicks": 4,
+      "scrolls": 57,
+      "mousemoves": 71,
+      "inputs": 0,
+      "keydowns": 0,
+      "duration_ms": 50983,
+      "duration_sec": 51
+    },
+    "inputs_n": 0,
+    "keydowns_n": 0
+  },
+  {
+    "visit_id": "4795933313736638560",
+    "duration_sec": 49,
+    "duration_ms": 49490,
+    "pageHeight": 8513,
+    "max_y": 7788,
+    "max_scroll_ratio": 0.9148,
+    "deepest_section": "form",
+    "last_y": 7788,
+    "last_ratio": 0.9148,
+    "last_section": "form",
+    "dwell_ms": {
+      "hero": 12400,
+      "about": 1184,
+      "program": 23581,
+      "injuries": 100,
+      "legal": 101,
+      "photo": 216,
+      "instructors": 5967,
+      "price": 1833,
+      "form": 4108
+    },
+    "cta_clicked": [
+      414
+    ],
+    "cta_click_events": [
+      {
+        "stamp": 43586,
+        "target": 414,
+        "x": 259,
+        "y": 360,
+        "scroll_y": 6903,
+        "scroll_ratio": 0.8109
+      }
+    ],
+    "form_fields_touched": [],
+    "submit_attempted": false,
+    "converted": false,
+    "dead_card_clicks": [
+      {
+        "stamp": 33621,
+        "target": 1,
+        "x": 211,
+        "y": -2730,
+        "scroll_y": 4049,
+        "scroll_ratio": 0.4756,
+        "section": "program"
+      },
+      {
+        "stamp": 34538,
+        "target": 1,
+        "x": 211,
+        "y": -2810,
+        "scroll_y": 4049,
+        "scroll_ratio": 0.4756,
+        "section": "program"
+      },
+      {
+        "stamp": 35465,
+        "target": 1,
+        "x": 211,
+        "y": -2728,
+        "scroll_y": 4049,
+        "scroll_ratio": 0.4756,
+        "section": "program"
+      }
+    ],
+    "stationary": {
+      "ms": 21266,
+      "y": 4049,
+      "start": 14750,
+      "end": 36016
+    },
+    "mid_blur": [],
+    "end_blur": [
+      {
+        "stamp": 49489,
+        "type": "windowblur"
+      }
+    ],
+    "program_dwell": 23581,
+    "hero_dwell": 12400,
+    "form_dwell": 4108,
+    "price_dwell": 1833,
+    "instructors_dwell": 5967,
+    "legal_dwell": 101,
+    "photo_dwell": 216,
+    "mid_fast": 417,
+    "summary": {
+      "total_events": 166,
+      "clicks": 4,
+      "scrolls": 58,
+      "mousemoves": 67,
+      "inputs": 0,
+      "keydowns": 0,
+      "duration_ms": 49490,
+      "duration_sec": 49
+    },
+    "inputs_n": 0,
+    "keydowns_n": 0
+  },
+  {
+    "visit_id": "4795935425897431112",
+    "duration_sec": 55,
+    "duration_ms": 55438,
+    "pageHeight": 8513,
+    "max_y": 7574,
+    "max_scroll_ratio": 0.8897,
+    "deepest_section": "form",
+    "last_y": 7574,
+    "last_ratio": 0.8897,
+    "last_section": "form",
+    "dwell_ms": {
+      "hero": 21704,
+      "about": 1367,
+      "program": 18816,
+      "injuries": 200,
+      "legal": 200,
+      "photo": 200,
+      "instructors": 7766,
+      "price": 583,
+      "form": 4602
+    },
+    "cta_clicked": [
+      414
+    ],
+    "cta_click_events": [
+      {
+        "stamp": 50128,
+        "target": 414,
+        "x": 259,
+        "y": 557,
+        "scroll_y": 6706,
+        "scroll_ratio": 0.7877
+      }
+    ],
+    "form_fields_touched": [],
+    "submit_attempted": false,
+    "converted": false,
+    "dead_card_clicks": [
+      {
+        "stamp": 38196,
+        "target": 1,
+        "x": 211,
+        "y": -2596,
+        "scroll_y": 3915,
+        "scroll_ratio": 0.4599,
+        "section": "program"
+      },
+      {
+        "stamp": 39007,
+        "target": 1,
+        "x": 211,
+        "y": -2676,
+        "scroll_y": 3915,
+        "scroll_ratio": 0.4599,
+        "section": "program"
+      },
+      {
+        "stamp": 39895,
+        "target": 1,
+        "x": 211,
+        "y": -2594,
+        "scroll_y": 3915,
+        "scroll_ratio": 0.4599,
+        "section": "program"
+      }
+    ],
+    "stationary": {
+      "ms": 20088,
+      "y": 0,
+      "start": 0,
+      "end": 20088
+    },
+    "mid_blur": [],
+    "end_blur": [
+      {
+        "stamp": 55438,
+        "type": "windowblur"
+      }
+    ],
+    "program_dwell": 18816,
+    "hero_dwell": 21704,
+    "form_dwell": 4602,
+    "price_dwell": 583,
+    "instructors_dwell": 7766,
+    "legal_dwell": 200,
+    "photo_dwell": 200,
+    "mid_fast": 600,
+    "summary": {
+      "total_events": 175,
+      "clicks": 4,
+      "scrolls": 58,
+      "mousemoves": 77,
+      "inputs": 0,
+      "keydowns": 0,
+      "duration_ms": 55438,
+      "duration_sec": 55
+    },
+    "inputs_n": 0,
+    "keydowns_n": 0
+  },
+  {
+    "visit_id": "4795936013525450821",
+    "duration_sec": 49,
+    "duration_ms": 49438,
+    "pageHeight": 8513,
+    "max_y": 7537,
+    "max_scroll_ratio": 0.8854,
+    "deepest_section": "form",
+    "last_y": 7537,
+    "last_ratio": 0.8854,
+    "last_section": "form",
+    "dwell_ms": {
+      "hero": 14056,
+      "about": 1199,
+      "program": 21900,
+      "injuries": 316,
+      "legal": 100,
+      "photo": 100,
+      "instructors": 101,
+      "price": 8199,
+      "form": 3467
+    },
+    "cta_clicked": [
+      414
+    ],
+    "cta_click_events": [
+      {
+        "stamp": 44246,
+        "target": 414,
+        "x": 259,
+        "y": 119,
+        "scroll_y": 7144,
+        "scroll_ratio": 0.8392
+      }
+    ],
+    "form_fields_touched": [],
+    "submit_attempted": false,
+    "converted": false,
+    "dead_card_clicks": [
+      {
+        "stamp": 33099,
+        "target": 1,
+        "x": 211,
+        "y": -2710,
+        "scroll_y": 4029,
+        "scroll_ratio": 0.4733,
+        "section": "program"
+      },
+      {
+        "stamp": 34074,
+        "target": 1,
+        "x": 211,
+        "y": -2790,
+        "scroll_y": 4029,
+        "scroll_ratio": 0.4733,
+        "section": "program"
+      },
+      {
+        "stamp": 35196,
+        "target": 1,
+        "x": 211,
+        "y": -2708,
+        "scroll_y": 4029,
+        "scroll_ratio": 0.4733,
+        "section": "program"
+      }
+    ],
+    "stationary": {
+      "ms": 19416,
+      "y": 4029,
+      "start": 16405,
+      "end": 35821
+    },
+    "mid_blur": [],
+    "end_blur": [
+      {
+        "stamp": 49437,
+        "type": "windowblur"
+      }
+    ],
+    "program_dwell": 21900,
+    "hero_dwell": 14056,
+    "form_dwell": 3467,
+    "price_dwell": 8199,
+    "instructors_dwell": 101,
+    "legal_dwell": 100,
+    "photo_dwell": 100,
+    "mid_fast": 516,
+    "summary": {
+      "total_events": 153,
+      "clicks": 4,
+      "scrolls": 56,
+      "mousemoves": 57,
+      "inputs": 0,
+      "keydowns": 0,
+      "duration_ms": 49438,
+      "duration_sec": 49
+    },
+    "inputs_n": 0,
+    "keydowns_n": 0
+  },
+  {
+    "visit_id": "4795937112596152652",
+    "duration_sec": 53,
+    "duration_ms": 53203,
+    "pageHeight": 8513,
+    "max_y": 7537,
+    "max_scroll_ratio": 0.8854,
+    "deepest_section": "form",
+    "last_y": 7325,
+    "last_ratio": 0.8604,
+    "last_section": "price",
+    "dwell_ms": {
+      "hero": 17014,
+      "about": 900,
+      "program": 26032,
+      "injuries": 300,
+      "legal": 101,
+      "photo": 3467,
+      "price": 3749,
+      "form": 1640
+    },
+    "cta_clicked": [
+      414
+    ],
+    "cta_click_events": [
+      {
+        "stamp": 47847,
+        "target": 414,
+        "x": 259,
+        "y": 360,
+        "scroll_y": 6903,
+        "scroll_ratio": 0.8109
+      }
+    ],
+    "form_fields_touched": [],
+    "submit_attempted": false,
+    "converted": false,
+    "dead_card_clicks": [
+      {
+        "stamp": 40156,
+        "target": 1,
+        "x": 211,
+        "y": -2927,
+        "scroll_y": 4246,
+        "scroll_ratio": 0.4988,
+        "section": "program"
+      },
+      {
+        "stamp": 41107,
+        "target": 1,
+        "x": 211,
+        "y": -3007,
+        "scroll_y": 4246,
+        "scroll_ratio": 0.4988,
+        "section": "program"
+      },
+      {
+        "stamp": 42143,
+        "target": 1,
+        "x": 211,
+        "y": -2925,
+        "scroll_y": 4246,
+        "scroll_ratio": 0.4988,
+        "section": "program"
+      }
+    ],
+    "stationary": {
+      "ms": 23549,
+      "y": 4246,
+      "start": 18997,
+      "end": 42546
+    },
+    "mid_blur": [],
+    "end_blur": [
+      {
+        "stamp": 53202,
+        "type": "windowblur"
+      }
+    ],
+    "program_dwell": 26032,
+    "hero_dwell": 17014,
+    "form_dwell": 1640,
+    "price_dwell": 3749,
+    "instructors_dwell": 0,
+    "legal_dwell": 101,
+    "photo_dwell": 3467,
+    "mid_fast": 3868,
+    "summary": {
+      "total_events": 175,
+      "clicks": 4,
+      "scrolls": 54,
+      "mousemoves": 80,
+      "inputs": 0,
+      "keydowns": 0,
+      "duration_ms": 53203,
+      "duration_sec": 53
+    },
+    "inputs_n": 0,
+    "keydowns_n": 0
+  },
+  {
+    "visit_id": "4795938223269347396",
+    "duration_sec": 56,
+    "duration_ms": 55890,
+    "pageHeight": 8513,
+    "max_y": 7537,
+    "max_scroll_ratio": 0.8854,
+    "deepest_section": "form",
+    "last_y": 7334,
+    "last_ratio": 0.8615,
+    "last_section": "price",
+    "dwell_ms": {
+      "hero": 20014,
+      "about": 1202,
+      "program": 22733,
+      "injuries": 216,
+      "legal": 201,
+      "photo": 216,
+      "instructors": 216,
+      "price": 8276,
+      "form": 2816
+    },
+    "cta_clicked": [
+      414
+    ],
+    "cta_click_events": [
+      {
+        "stamp": 49401,
+        "target": 414,
+        "x": 259,
+        "y": 299,
+        "scroll_y": 6964,
+        "scroll_ratio": 0.818
+      }
+    ],
+    "form_fields_touched": [],
+    "submit_attempted": false,
+    "converted": false,
+    "dead_card_clicks": [
+      {
+        "stamp": 39995,
+        "target": 1,
+        "x": 211,
+        "y": -2789,
+        "scroll_y": 4108,
+        "scroll_ratio": 0.4826,
+        "section": "program"
+      },
+      {
+        "stamp": 40907,
+        "target": 1,
+        "x": 211,
+        "y": -2869,
+        "scroll_y": 4108,
+        "scroll_ratio": 0.4826,
+        "section": "program"
+      },
+      {
+        "stamp": 42053,
+        "target": 1,
+        "x": 211,
+        "y": -2787,
+        "scroll_y": 4108,
+        "scroll_ratio": 0.4826,
+        "section": "program"
+      }
+    ],
+    "stationary": {
+      "ms": 20066,
+      "y": 4108,
+      "start": 22416,
+      "end": 42482
+    },
+    "mid_blur": [],
+    "end_blur": [
+      {
+        "stamp": 55889,
+        "type": "windowblur"
+      }
+    ],
+    "program_dwell": 22733,
+    "hero_dwell": 20014,
+    "form_dwell": 2816,
+    "price_dwell": 8276,
+    "instructors_dwell": 216,
+    "legal_dwell": 201,
+    "photo_dwell": 216,
+    "mid_fast": 633,
+    "summary": {
+      "total_events": 174,
+      "clicks": 4,
+      "scrolls": 59,
+      "mousemoves": 73,
+      "inputs": 0,
+      "keydowns": 0,
+      "duration_ms": 55890,
+      "duration_sec": 56
+    },
+    "inputs_n": 0,
+    "keydowns_n": 0
+  },
+  {
+    "visit_id": "4795938790667976901",
+    "duration_sec": 52,
+    "duration_ms": 52342,
+    "pageHeight": 8513,
+    "max_y": 7747,
+    "max_scroll_ratio": 0.91,
+    "deepest_section": "form",
+    "last_y": 7747,
+    "last_ratio": 0.91,
+    "last_section": "form",
+    "dwell_ms": {
+      "hero": 16967,
+      "about": 1084,
+      "program": 22716,
+      "injuries": 116,
+      "legal": 200,
+      "photo": 5066,
+      "price": 550,
+      "form": 5643
+    },
+    "cta_clicked": [
+      414
+    ],
+    "cta_click_events": [
+      {
+        "stamp": 46174,
+        "target": 414,
+        "x": 259,
+        "y": 360,
+        "scroll_y": 6903,
+        "scroll_ratio": 0.8109
+      }
+    ],
+    "form_fields_touched": [],
+    "submit_attempted": false,
+    "converted": false,
+    "dead_card_clicks": [
+      {
+        "stamp": 36507,
+        "target": 1,
+        "x": 211,
+        "y": -2234,
+        "scroll_y": 3553,
+        "scroll_ratio": 0.4174,
+        "section": "program"
+      },
+      {
+        "stamp": 37476,
+        "target": 1,
+        "x": 211,
+        "y": -2314,
+        "scroll_y": 3553,
+        "scroll_ratio": 0.4174,
+        "section": "program"
+      },
+      {
+        "stamp": 38736,
+        "target": 1,
+        "x": 211,
+        "y": -2232,
+        "scroll_y": 3553,
+        "scroll_ratio": 0.4174,
+        "section": "program"
+      }
+    ],
+    "stationary": {
+      "ms": 20649,
+      "y": 3553,
+      "start": 18901,
+      "end": 39550
+    },
+    "mid_blur": [],
+    "end_blur": [
+      {
+        "stamp": 52342,
+        "type": "windowblur"
+      }
+    ],
+    "program_dwell": 22716,
+    "hero_dwell": 16967,
+    "form_dwell": 5643,
+    "price_dwell": 550,
+    "instructors_dwell": 0,
+    "legal_dwell": 200,
+    "photo_dwell": 5066,
+    "mid_fast": 5382,
+    "summary": {
+      "total_events": 154,
+      "clicks": 4,
+      "scrolls": 49,
+      "mousemoves": 65,
+      "inputs": 0,
+      "keydowns": 0,
+      "duration_ms": 52342,
+      "duration_sec": 52
+    },
+    "inputs_n": 0,
+    "keydowns_n": 0
+  },
+  {
+    "visit_id": "4795941606997360981",
+    "duration_sec": 56,
+    "duration_ms": 55593,
+    "pageHeight": 8513,
+    "max_y": 7537,
+    "max_scroll_ratio": 0.8854,
+    "deepest_section": "form",
+    "last_y": 7537,
+    "last_ratio": 0.8854,
+    "last_section": "form",
+    "dwell_ms": {
+      "hero": 18337,
+      "about": 1082,
+      "program": 24532,
+      "injuries": 300,
+      "legal": 100,
+      "photo": 6316,
+      "price": 1650,
+      "form": 3276
+    },
+    "cta_clicked": [
+      414
+    ],
+    "cta_click_events": [
+      {
+        "stamp": 50695,
+        "target": 414,
+        "x": 259,
+        "y": 360,
+        "scroll_y": 6903,
+        "scroll_ratio": 0.8109
+      }
+    ],
+    "form_fields_touched": [],
+    "submit_attempted": false,
+    "converted": false,
+    "dead_card_clicks": [
+      {
+        "stamp": 39797,
+        "target": 1,
+        "x": 211,
+        "y": -2624,
+        "scroll_y": 3943,
+        "scroll_ratio": 0.4632,
+        "section": "program"
+      },
+      {
+        "stamp": 40903,
+        "target": 1,
+        "x": 211,
+        "y": -2704,
+        "scroll_y": 3943,
+        "scroll_ratio": 0.4632,
+        "section": "program"
+      },
+      {
+        "stamp": 42061,
+        "target": 1,
+        "x": 211,
+        "y": -2622,
+        "scroll_y": 3943,
+        "scroll_ratio": 0.4632,
+        "section": "program"
+      }
+    ],
+    "stationary": {
+      "ms": 21915,
+      "y": 3943,
+      "start": 20619,
+      "end": 42534
+    },
+    "mid_blur": [],
+    "end_blur": [
+      {
+        "stamp": 55592,
+        "type": "windowblur"
+      }
+    ],
+    "program_dwell": 24532,
+    "hero_dwell": 18337,
+    "form_dwell": 3276,
+    "price_dwell": 1650,
+    "instructors_dwell": 0,
+    "legal_dwell": 100,
+    "photo_dwell": 6316,
+    "mid_fast": 6716,
+    "summary": {
+      "total_events": 161,
+      "clicks": 4,
+      "scrolls": 56,
+      "mousemoves": 65,
+      "inputs": 0,
+      "keydowns": 0,
+      "duration_ms": 55593,
+      "duration_sec": 56
+    },
+    "inputs_n": 0,
+    "keydowns_n": 0
+  },
+  {
+    "visit_id": "4795944782154432773",
+    "duration_sec": 51,
+    "duration_ms": 51392,
+    "pageHeight": 8513,
+    "max_y": 7537,
+    "max_scroll_ratio": 0.8854,
+    "deepest_section": "form",
+    "last_y": 7331,
+    "last_ratio": 0.8612,
+    "last_section": "price",
+    "dwell_ms": {
+      "hero": 16946,
+      "about": 1364,
+      "program": 22082,
+      "injuries": 300,
+      "legal": 200,
+      "photo": 5167,
+      "price": 3948,
+      "form": 1385
+    },
+    "cta_clicked": [
+      414
+    ],
+    "cta_click_events": [
+      {
+        "stamp": 46084,
+        "target": 414,
+        "x": 259,
+        "y": 360,
+        "scroll_y": 6903,
+        "scroll_ratio": 0.8109
+      }
+    ],
+    "form_fields_touched": [],
+    "submit_attempted": false,
+    "converted": false,
+    "dead_card_clicks": [
+      {
+        "stamp": 35961,
+        "target": 1,
+        "x": 211,
+        "y": -2930,
+        "scroll_y": 4249,
+        "scroll_ratio": 0.4991,
+        "section": "program"
+      },
+      {
+        "stamp": 36798,
+        "target": 1,
+        "x": 211,
+        "y": -3010,
+        "scroll_y": 4249,
+        "scroll_ratio": 0.4991,
+        "section": "program"
+      },
+      {
+        "stamp": 38210,
+        "target": 1,
+        "x": 211,
+        "y": -2928,
+        "scroll_y": 4249,
+        "scroll_ratio": 0.4991,
+        "section": "program"
+      }
+    ],
+    "stationary": {
+      "ms": 19415,
+      "y": 4249,
+      "start": 19427,
+      "end": 38842
+    },
+    "mid_blur": [],
+    "end_blur": [
+      {
+        "stamp": 51391,
+        "type": "windowblur"
+      }
+    ],
+    "program_dwell": 22082,
+    "hero_dwell": 16946,
+    "form_dwell": 1385,
+    "price_dwell": 3948,
+    "instructors_dwell": 0,
+    "legal_dwell": 200,
+    "photo_dwell": 5167,
+    "mid_fast": 5667,
+    "summary": {
+      "total_events": 162,
+      "clicks": 4,
+      "scrolls": 56,
+      "mousemoves": 66,
+      "inputs": 0,
+      "keydowns": 0,
+      "duration_ms": 51392,
+      "duration_sec": 51
+    },
+    "inputs_n": 0,
+    "keydowns_n": 0
+  },
+  {
+    "visit_id": "4795946091104960720",
+    "duration_sec": 53,
+    "duration_ms": 53337,
+    "pageHeight": 8513,
+    "max_y": 7793,
+    "max_scroll_ratio": 0.9154,
+    "deepest_section": "form",
+    "last_y": 7793,
+    "last_ratio": 0.9154,
+    "last_section": "form",
+    "dwell_ms": {
+      "hero": 19663,
+      "about": 1083,
+      "program": 21433,
+      "injuries": 300,
+      "legal": 200,
+      "photo": 4533,
+      "price": 634,
+      "form": 5491
+    },
+    "cta_clicked": [
+      414
+    ],
+    "cta_click_events": [
+      {
+        "stamp": 47243,
+        "target": 414,
+        "x": 259,
+        "y": 360,
+        "scroll_y": 6903,
+        "scroll_ratio": 0.8109
+      }
+    ],
+    "form_fields_touched": [],
+    "submit_attempted": false,
+    "converted": false,
+    "dead_card_clicks": [
+      {
+        "stamp": 38103,
+        "target": 1,
+        "x": 211,
+        "y": -2341,
+        "scroll_y": 3660,
+        "scroll_ratio": 0.4299,
+        "section": "program"
+      },
+      {
+        "stamp": 39019,
+        "target": 1,
+        "x": 211,
+        "y": -2421,
+        "scroll_y": 3660,
+        "scroll_ratio": 0.4299,
+        "section": "program"
+      },
+      {
+        "stamp": 40367,
+        "target": 1,
+        "x": 211,
+        "y": -2339,
+        "scroll_y": 3660,
+        "scroll_ratio": 0.4299,
+        "section": "program"
+      }
+    ],
+    "stationary": {
+      "ms": 19032,
+      "y": 3660,
+      "start": 21730,
+      "end": 40762
+    },
+    "mid_blur": [],
+    "end_blur": [
+      {
+        "stamp": 53337,
+        "type": "windowblur"
+      }
+    ],
+    "program_dwell": 21433,
+    "hero_dwell": 19663,
+    "form_dwell": 5491,
+    "price_dwell": 634,
+    "instructors_dwell": 0,
+    "legal_dwell": 200,
+    "photo_dwell": 4533,
+    "mid_fast": 5033,
+    "summary": {
+      "total_events": 166,
+      "clicks": 4,
+      "scrolls": 56,
+      "mousemoves": 69,
+      "inputs": 0,
+      "keydowns": 0,
+      "duration_ms": 53337,
+      "duration_sec": 53
+    },
+    "inputs_n": 0,
+    "keydowns_n": 0
+  },
+  {
+    "visit_id": "4795946163798278476",
+    "duration_sec": 61,
+    "duration_ms": 60876,
+    "pageHeight": 8513,
+    "max_y": 7683,
+    "max_scroll_ratio": 0.9025,
+    "deepest_section": "form",
+    "last_y": 7683,
+    "last_ratio": 0.9025,
+    "last_section": "form",
+    "dwell_ms": {
+      "hero": 22319,
+      "about": 1317,
+      "program": 27649,
+      "injuries": 200,
+      "legal": 300,
+      "photo": 3917,
+      "price": 601,
+      "form": 4573
+    },
+    "cta_clicked": [
+      414
+    ],
+    "cta_click_events": [
+      {
+        "stamp": 55727,
+        "target": 414,
+        "x": 259,
+        "y": 360,
+        "scroll_y": 6903,
+        "scroll_ratio": 0.8109
+      }
+    ],
+    "form_fields_touched": [],
+    "submit_attempted": false,
+    "converted": false,
+    "dead_card_clicks": [
+      {
+        "stamp": 46761,
+        "target": 1,
+        "x": 211,
+        "y": -2573,
+        "scroll_y": 3892,
+        "scroll_ratio": 0.4572,
+        "section": "program"
+      },
+      {
+        "stamp": 48236,
+        "target": 1,
+        "x": 211,
+        "y": -2653,
+        "scroll_y": 3892,
+        "scroll_ratio": 0.4572,
+        "section": "program"
+      },
+      {
+        "stamp": 49099,
+        "target": 1,
+        "x": 211,
+        "y": -2571,
+        "scroll_y": 3892,
+        "scroll_ratio": 0.4572,
+        "section": "program"
+      }
+    ],
+    "stationary": {
+      "ms": 24948,
+      "y": 3892,
+      "start": 24837,
+      "end": 49785
+    },
+    "mid_blur": [],
+    "end_blur": [
+      {
+        "stamp": 60875,
+        "type": "windowblur"
+      }
+    ],
+    "program_dwell": 27649,
+    "hero_dwell": 22319,
+    "form_dwell": 4573,
+    "price_dwell": 601,
+    "instructors_dwell": 0,
+    "legal_dwell": 300,
+    "photo_dwell": 3917,
+    "mid_fast": 4417,
+    "summary": {
+      "total_events": 183,
+      "clicks": 4,
+      "scrolls": 55,
+      "mousemoves": 87,
+      "inputs": 0,
+      "keydowns": 0,
+      "duration_ms": 60876,
+      "duration_sec": 61
+    },
+    "inputs_n": 0,
+    "keydowns_n": 0
+  },
+  {
+    "visit_id": "4795946404791189660",
+    "duration_sec": 50,
+    "duration_ms": 49933,
+    "pageHeight": 8513,
+    "max_y": 7736,
+    "max_scroll_ratio": 0.9087,
+    "deepest_section": "form",
+    "last_y": 7736,
+    "last_ratio": 0.9087,
+    "last_section": "form",
+    "dwell_ms": {
+      "hero": 14284,
+      "about": 1534,
+      "program": 21616,
+      "injuries": 217,
+      "legal": 116,
+      "photo": 116,
+      "instructors": 6000,
+      "price": 1533,
+      "form": 4517
+    },
+    "cta_clicked": [
+      414
+    ],
+    "cta_click_events": [
+      {
+        "stamp": 43712,
+        "target": 414,
+        "x": 259,
+        "y": 697,
+        "scroll_y": 6566,
+        "scroll_ratio": 0.7713
+      }
+    ],
+    "form_fields_touched": [],
+    "submit_attempted": false,
+    "converted": false,
+    "dead_card_clicks": [
+      {
+        "stamp": 33734,
+        "target": 1,
+        "x": 211,
+        "y": -2911,
+        "scroll_y": 4230,
+        "scroll_ratio": 0.4969,
+        "section": "program"
+      },
+      {
+        "stamp": 34782,
+        "target": 1,
+        "x": 211,
+        "y": -2991,
+        "scroll_y": 4230,
+        "scroll_ratio": 0.4969,
+        "section": "program"
+      },
+      {
+        "stamp": 35603,
+        "target": 1,
+        "x": 211,
+        "y": -2909,
+        "scroll_y": 4230,
+        "scroll_ratio": 0.4969,
+        "section": "program"
+      }
+    ],
+    "stationary": {
+      "ms": 19233,
+      "y": 4230,
+      "start": 16850,
+      "end": 36083
+    },
+    "mid_blur": [],
+    "end_blur": [
+      {
+        "stamp": 49931,
+        "type": "windowblur"
+      }
+    ],
+    "program_dwell": 21616,
+    "hero_dwell": 14284,
+    "form_dwell": 4517,
+    "price_dwell": 1533,
+    "instructors_dwell": 6000,
+    "legal_dwell": 116,
+    "photo_dwell": 116,
+    "mid_fast": 449,
+    "summary": {
+      "total_events": 138,
+      "clicks": 4,
+      "scrolls": 57,
+      "mousemoves": 42,
+      "inputs": 0,
+      "keydowns": 0,
+      "duration_ms": 49933,
+      "duration_sec": 50
+    },
+    "inputs_n": 0,
+    "keydowns_n": 0
+  },
+  {
+    "visit_id": "4795949074667012452",
+    "duration_sec": 50,
+    "duration_ms": 50322,
+    "pageHeight": 8513,
+    "max_y": 7780,
+    "max_scroll_ratio": 0.9139,
+    "deepest_section": "form",
+    "last_y": 7780,
+    "last_ratio": 0.9139,
+    "last_section": "form",
+    "dwell_ms": {
+      "hero": 15908,
+      "about": 850,
+      "program": 23949,
+      "injuries": 100,
+      "legal": 116,
+      "photo": 100,
+      "instructors": 4084,
+      "price": 517,
+      "form": 4698
+    },
+    "cta_clicked": [
+      414
+    ],
+    "cta_click_events": [
+      {
+        "stamp": 45134,
+        "target": 414,
+        "x": 259,
+        "y": 360,
+        "scroll_y": 6903,
+        "scroll_ratio": 0.8109
+      }
+    ],
+    "form_fields_touched": [],
+    "submit_attempted": false,
+    "converted": false,
+    "dead_card_clicks": [
+      {
+        "stamp": 36670,
+        "target": 1,
+        "x": 211,
+        "y": -2432,
+        "scroll_y": 3751,
+        "scroll_ratio": 0.4406,
+        "section": "program"
+      },
+      {
+        "stamp": 37715,
+        "target": 1,
+        "x": 211,
+        "y": -2512,
+        "scroll_y": 3751,
+        "scroll_ratio": 0.4406,
+        "section": "program"
+      },
+      {
+        "stamp": 39013,
+        "target": 1,
+        "x": 211,
+        "y": -2430,
+        "scroll_y": 3751,
+        "scroll_ratio": 0.4406,
+        "section": "program"
+      }
+    ],
+    "stationary": {
+      "ms": 21598,
+      "y": 3751,
+      "start": 17808,
+      "end": 39406
+    },
+    "mid_blur": [],
+    "end_blur": [
+      {
+        "stamp": 50321,
+        "type": "windowblur"
+      }
+    ],
+    "program_dwell": 23949,
+    "hero_dwell": 15908,
+    "form_dwell": 4698,
+    "price_dwell": 517,
+    "instructors_dwell": 4084,
+    "legal_dwell": 116,
+    "photo_dwell": 100,
+    "mid_fast": 316,
+    "summary": {
+      "total_events": 152,
+      "clicks": 4,
+      "scrolls": 52,
+      "mousemoves": 61,
+      "inputs": 0,
+      "keydowns": 0,
+      "duration_ms": 50322,
+      "duration_sec": 50
+    },
+    "inputs_n": 0,
+    "keydowns_n": 0
+  },
+  {
+    "visit_id": "4795950073214140653",
+    "duration_sec": 47,
+    "duration_ms": 47019,
+    "pageHeight": 8513,
+    "max_y": 7664,
+    "max_scroll_ratio": 0.9003,
+    "deepest_section": "form",
+    "last_y": 7664,
+    "last_ratio": 0.9003,
+    "last_section": "form",
+    "dwell_ms": {
+      "hero": 15796,
+      "about": 1066,
+      "program": 19267,
+      "injuries": 216,
+      "legal": 200,
+      "photo": 100,
+      "instructors": 4583,
+      "price": 617,
+      "form": 5174
+    },
+    "cta_clicked": [
+      414
+    ],
+    "cta_click_events": [
+      {
+        "stamp": 41103,
+        "target": 414,
+        "x": 259,
+        "y": 406,
+        "scroll_y": 6857,
+        "scroll_ratio": 0.8055
+      }
+    ],
+    "form_fields_touched": [],
+    "submit_attempted": false,
+    "converted": false,
+    "dead_card_clicks": [
+      {
+        "stamp": 32192,
+        "target": 1,
+        "x": 211,
+        "y": -2927,
+        "scroll_y": 4246,
+        "scroll_ratio": 0.4988,
+        "section": "program"
+      },
+      {
+        "stamp": 33221,
+        "target": 1,
+        "x": 211,
+        "y": -3007,
+        "scroll_y": 4246,
+        "scroll_ratio": 0.4988,
+        "section": "program"
+      },
+      {
+        "stamp": 34310,
+        "target": 1,
+        "x": 211,
+        "y": -2925,
+        "scroll_y": 4246,
+        "scroll_ratio": 0.4988,
+        "section": "program"
+      }
+    ],
+    "stationary": {
+      "ms": 16782,
+      "y": 4246,
+      "start": 18013,
+      "end": 34795
+    },
+    "mid_blur": [],
+    "end_blur": [
+      {
+        "stamp": 47018,
+        "type": "windowblur"
+      }
+    ],
+    "program_dwell": 19267,
+    "hero_dwell": 15796,
+    "form_dwell": 5174,
+    "price_dwell": 617,
+    "instructors_dwell": 4583,
+    "legal_dwell": 200,
+    "photo_dwell": 100,
+    "mid_fast": 516,
+    "summary": {
+      "total_events": 162,
+      "clicks": 4,
+      "scrolls": 57,
+      "mousemoves": 67,
+      "inputs": 0,
+      "keydowns": 0,
+      "duration_ms": 47019,
+      "duration_sec": 47
+    },
+    "inputs_n": 0,
+    "keydowns_n": 0
+  }
+]
